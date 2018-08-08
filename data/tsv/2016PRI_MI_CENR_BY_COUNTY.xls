@@ -1,0 +1,1087 @@
+ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyName	OfficeDescription	PartyOrder	PartyName	PartyDescription	CandidateID	CandidateLastName	CandidateFirstName	CandidateMiddleName	CandidateFormerName	CandidateVotes	WriteIn(W)/Uncommitted(Z)	Recount(*)	Nominated(N)/Elected(E)
+2016-08-02	06	00100	0	1	ALCONA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			478			
+2016-08-02	06	00100	0	1	ALCONA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			540			N
+2016-08-02	06	00100	0	1	ALCONA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			426			
+2016-08-02	06	00100	0	1	ALCONA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			208			
+2016-08-02	06	00100	0	1	ALCONA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			444			N
+2016-08-02	06	00100	0	2	ALGER	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			76			
+2016-08-02	06	00100	0	2	ALGER	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			256			N
+2016-08-02	06	00100	0	2	ALGER	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			585			
+2016-08-02	06	00100	0	2	ALGER	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			234			
+2016-08-02	06	00100	0	2	ALGER	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			542			N
+2016-08-02	06	00100	0	4	ALPENA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			1006			
+2016-08-02	06	00100	0	4	ALPENA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1147			N
+2016-08-02	06	00100	0	4	ALPENA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			716			
+2016-08-02	06	00100	0	4	ALPENA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			451			
+2016-08-02	06	00100	0	4	ALPENA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			1508			N
+2016-08-02	06	00100	0	5	ANTRIM	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			1498			
+2016-08-02	06	00100	0	5	ANTRIM	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1906			N
+2016-08-02	06	00100	0	5	ANTRIM	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			745			
+2016-08-02	06	00100	0	5	ANTRIM	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			273			
+2016-08-02	06	00100	0	5	ANTRIM	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			761			N
+2016-08-02	06	00100	0	7	BARAGA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			67			
+2016-08-02	06	00100	0	7	BARAGA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			232			N
+2016-08-02	06	00100	0	7	BARAGA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			532			
+2016-08-02	06	00100	0	7	BARAGA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			103			
+2016-08-02	06	00100	0	7	BARAGA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			250			N
+2016-08-02	06	00100	0	10	BENZIE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			891			
+2016-08-02	06	00100	0	10	BENZIE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1164			N
+2016-08-02	06	00100	0	10	BENZIE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			519			
+2016-08-02	06	00100	0	10	BENZIE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			271			
+2016-08-02	06	00100	0	10	BENZIE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			689			N
+2016-08-02	06	00100	0	15	CHARLEVOIX	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			1258			
+2016-08-02	06	00100	0	15	CHARLEVOIX	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1487			N
+2016-08-02	06	00100	0	15	CHARLEVOIX	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			552			
+2016-08-02	06	00100	0	15	CHARLEVOIX	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			238			
+2016-08-02	06	00100	0	15	CHARLEVOIX	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			824			N
+2016-08-02	06	00100	0	16	CHEBOYGAN	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			1279			
+2016-08-02	06	00100	0	16	CHEBOYGAN	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1673			N
+2016-08-02	06	00100	0	16	CHEBOYGAN	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			807			
+2016-08-02	06	00100	0	16	CHEBOYGAN	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			345			
+2016-08-02	06	00100	0	16	CHEBOYGAN	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			678			N
+2016-08-02	06	00100	0	17	CHIPPEWA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			1390			
+2016-08-02	06	00100	0	17	CHIPPEWA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1435			N
+2016-08-02	06	00100	0	17	CHIPPEWA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			985			
+2016-08-02	06	00100	0	17	CHIPPEWA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			325			
+2016-08-02	06	00100	0	17	CHIPPEWA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			900			N
+2016-08-02	06	00100	0	20	CRAWFORD	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			715			
+2016-08-02	06	00100	0	20	CRAWFORD	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			940			N
+2016-08-02	06	00100	0	20	CRAWFORD	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			467			
+2016-08-02	06	00100	0	20	CRAWFORD	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			283			
+2016-08-02	06	00100	0	20	CRAWFORD	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			487			N
+2016-08-02	06	00100	0	21	DELTA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			273			
+2016-08-02	06	00100	0	21	DELTA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			921			N
+2016-08-02	06	00100	0	21	DELTA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			3477			
+2016-08-02	06	00100	0	21	DELTA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			733			
+2016-08-02	06	00100	0	21	DELTA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			2002			N
+2016-08-02	06	00100	0	22	DICKINSON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			264			
+2016-08-02	06	00100	0	22	DICKINSON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1068			N
+2016-08-02	06	00100	0	22	DICKINSON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			2193			
+2016-08-02	06	00100	0	22	DICKINSON	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			631			
+2016-08-02	06	00100	0	22	DICKINSON	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			1113			N
+2016-08-02	06	00100	0	24	EMMET	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			1716			
+2016-08-02	06	00100	0	24	EMMET	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			2473			N
+2016-08-02	06	00100	0	24	EMMET	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			1025			
+2016-08-02	06	00100	0	24	EMMET	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			268			
+2016-08-02	06	00100	0	24	EMMET	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			1038			N
+2016-08-02	06	00100	0	27	GOGEBIC	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			60			
+2016-08-02	06	00100	0	27	GOGEBIC	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			285			N
+2016-08-02	06	00100	0	27	GOGEBIC	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			367			
+2016-08-02	06	00100	0	27	GOGEBIC	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			573			
+2016-08-02	06	00100	0	27	GOGEBIC	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			1167			N
+2016-08-02	06	00100	0	28	GD. TRAVERSE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			6082			
+2016-08-02	06	00100	0	28	GD. TRAVERSE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			4970			N
+2016-08-02	06	00100	0	28	GD. TRAVERSE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			2132			
+2016-08-02	06	00100	0	28	GD. TRAVERSE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			1495			
+2016-08-02	06	00100	0	28	GD. TRAVERSE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			2981			N
+2016-08-02	06	00100	0	31	HOUGHTON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			212			
+2016-08-02	06	00100	0	31	HOUGHTON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1040			N
+2016-08-02	06	00100	0	31	HOUGHTON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			1687			
+2016-08-02	06	00100	0	31	HOUGHTON	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			538			
+2016-08-02	06	00100	0	31	HOUGHTON	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			1754			N
+2016-08-02	06	00100	0	36	IRON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			69			
+2016-08-02	06	00100	0	36	IRON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			264			N
+2016-08-02	06	00100	0	36	IRON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			628			
+2016-08-02	06	00100	0	36	IRON	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			262			
+2016-08-02	06	00100	0	36	IRON	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			657			N
+2016-08-02	06	00100	0	40	KALKASKA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			955			
+2016-08-02	06	00100	0	40	KALKASKA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1011			N
+2016-08-02	06	00100	0	40	KALKASKA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			466			
+2016-08-02	06	00100	0	40	KALKASKA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			543			
+2016-08-02	06	00100	0	40	KALKASKA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			313			N
+2016-08-02	06	00100	0	42	KEWEENAW	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			22			
+2016-08-02	06	00100	0	42	KEWEENAW	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			126			N
+2016-08-02	06	00100	0	42	KEWEENAW	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			194			
+2016-08-02	06	00100	0	42	KEWEENAW	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			79			
+2016-08-02	06	00100	0	42	KEWEENAW	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			151			N
+2016-08-02	06	00100	0	45	LEELANAU	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			1595			
+2016-08-02	06	00100	0	45	LEELANAU	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1365			N
+2016-08-02	06	00100	0	45	LEELANAU	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			669			
+2016-08-02	06	00100	0	45	LEELANAU	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			447			
+2016-08-02	06	00100	0	45	LEELANAU	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			1468			N
+2016-08-02	06	00100	0	48	LUCE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			174			
+2016-08-02	06	00100	0	48	LUCE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			227			N
+2016-08-02	06	00100	0	48	LUCE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			451			
+2016-08-02	06	00100	0	48	LUCE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			38			
+2016-08-02	06	00100	0	48	LUCE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			165			N
+2016-08-02	06	00100	0	49	MACKINAC	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			701			
+2016-08-02	06	00100	0	49	MACKINAC	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			764			N
+2016-08-02	06	00100	0	49	MACKINAC	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			787			
+2016-08-02	06	00100	0	49	MACKINAC	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			170			
+2016-08-02	06	00100	0	49	MACKINAC	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			400			N
+2016-08-02	06	00100	0	51	MANISTEE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			948			
+2016-08-02	06	00100	0	51	MANISTEE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1629			N
+2016-08-02	06	00100	0	51	MANISTEE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			701			
+2016-08-02	06	00100	0	51	MANISTEE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			554			
+2016-08-02	06	00100	0	51	MANISTEE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			1093			N
+2016-08-02	06	00100	0	52	MARQUETTE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			214			
+2016-08-02	06	00100	0	52	MARQUETTE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1114			N
+2016-08-02	06	00100	0	52	MARQUETTE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			1810			
+2016-08-02	06	00100	0	52	MARQUETTE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			2009			
+2016-08-02	06	00100	0	52	MARQUETTE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			7225			N
+2016-08-02	06	00100	0	53	MASON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			214			
+2016-08-02	06	00100	0	53	MASON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			395			N
+2016-08-02	06	00100	0	53	MASON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			237			
+2016-08-02	06	00100	0	53	MASON	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			79			
+2016-08-02	06	00100	0	53	MASON	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			149			N
+2016-08-02	06	00100	0	55	MENOMINEE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			121			
+2016-08-02	06	00100	0	55	MENOMINEE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			252			N
+2016-08-02	06	00100	0	55	MENOMINEE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			1220			
+2016-08-02	06	00100	0	55	MENOMINEE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			277			
+2016-08-02	06	00100	0	55	MENOMINEE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			715			N
+2016-08-02	06	00100	0	60	MONTMORENCY	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			563			
+2016-08-02	06	00100	0	60	MONTMORENCY	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			789			N
+2016-08-02	06	00100	0	60	MONTMORENCY	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			436			
+2016-08-02	06	00100	0	60	MONTMORENCY	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			116			
+2016-08-02	06	00100	0	60	MONTMORENCY	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			189			N
+2016-08-02	06	00100	0	66	ONTONAGON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			46			
+2016-08-02	06	00100	0	66	ONTONAGON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			273			N
+2016-08-02	06	00100	0	66	ONTONAGON	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			479			
+2016-08-02	06	00100	0	66	ONTONAGON	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			194			
+2016-08-02	06	00100	0	66	ONTONAGON	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			373			N
+2016-08-02	06	00100	0	68	OSCODA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			429			
+2016-08-02	06	00100	0	68	OSCODA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			897			N
+2016-08-02	06	00100	0	68	OSCODA	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			435			
+2016-08-02	06	00100	0	68	OSCODA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			82			
+2016-08-02	06	00100	0	68	OSCODA	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			157			N
+2016-08-02	06	00100	0	69	OTSEGO	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			1322			
+2016-08-02	06	00100	0	69	OTSEGO	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1581			N
+2016-08-02	06	00100	0	69	OTSEGO	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			996			
+2016-08-02	06	00100	0	69	OTSEGO	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			258			
+2016-08-02	06	00100	0	69	OTSEGO	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			497			N
+2016-08-02	06	00100	0	71	PRESQUE ISLE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			897			
+2016-08-02	06	00100	0	71	PRESQUE ISLE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			1154			N
+2016-08-02	06	00100	0	71	PRESQUE ISLE	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			561			
+2016-08-02	06	00100	0	71	PRESQUE ISLE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			300			
+2016-08-02	06	00100	0	71	PRESQUE ISLE	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			516			N
+2016-08-02	06	00100	0	77	SCHOOLCRAFT	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1080	Allen	Jason			72			
+2016-08-02	06	00100	0	77	SCHOOLCRAFT	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1061	Bergman	Jack			254			N
+2016-08-02	06	00100	0	77	SCHOOLCRAFT	1st District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1079	Casperson	Tom			528			
+2016-08-02	06	00100	0	77	SCHOOLCRAFT	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1068	Cannon	Jerry			162			
+2016-08-02	06	00100	0	77	SCHOOLCRAFT	1st District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1062	Johnson	Lon			471			N
+2016-08-02	06	00200	0	3	ALLEGAN	2nd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1059	Huizenga	Bill			244			N
+2016-08-02	06	00200	0	3	ALLEGAN	2nd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1083	Murphy	Dennis	B.		96			N
+2016-08-02	06	00200	0	41	KENT	2nd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1059	Huizenga	Bill			8892			N
+2016-08-02	06	00200	0	41	KENT	2nd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1083	Murphy	Dennis	B.		3595			N
+2016-08-02	06	00200	0	43	LAKE	2nd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1059	Huizenga	Bill			720			N
+2016-08-02	06	00200	0	43	LAKE	2nd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1083	Murphy	Dennis	B.		1204			N
+2016-08-02	06	00200	0	53	MASON	2nd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1059	Huizenga	Bill			2324			N
+2016-08-02	06	00200	0	53	MASON	2nd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1083	Murphy	Dennis	B.		475			N
+2016-08-02	06	00200	0	61	MUSKEGON	2nd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1059	Huizenga	Bill			7482			N
+2016-08-02	06	00200	0	61	MUSKEGON	2nd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1083	Murphy	Dennis	B.		13646			N
+2016-08-02	06	00200	0	62	NEWAYGO	2nd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1059	Huizenga	Bill			7162			N
+2016-08-02	06	00200	0	62	NEWAYGO	2nd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1083	Murphy	Dennis	B.		877			N
+2016-08-02	06	00200	0	64	OCEANA	2nd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1059	Huizenga	Bill			4142			N
+2016-08-02	06	00200	0	64	OCEANA	2nd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1083	Murphy	Dennis	B.		433			N
+2016-08-02	06	00200	0	70	OTTAWA	2nd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1059	Huizenga	Bill			29878			N
+2016-08-02	06	00200	0	70	OTTAWA	2nd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1083	Murphy	Dennis	B.		6172			N
+2016-08-02	06	00300	0	8	BARRY	3rd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1066	Amash	Justin			8950			N
+2016-08-02	06	00300	0	8	BARRY	3rd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1075	Smith	Douglas			799			N
+2016-08-02	06	00300	0	13	CALHOUN	3rd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1066	Amash	Justin			7543			N
+2016-08-02	06	00300	0	13	CALHOUN	3rd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1075	Smith	Douglas			3950			N
+2016-08-02	06	00300	0	34	IONIA	3rd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1066	Amash	Justin			5470			N
+2016-08-02	06	00300	0	34	IONIA	3rd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1075	Smith	Douglas			1073			N
+2016-08-02	06	00300	0	41	KENT	3rd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1066	Amash	Justin			33375			N
+2016-08-02	06	00300	0	41	KENT	3rd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1075	Smith	Douglas			14416			N
+2016-08-02	06	00300	0	59	MONTCALM	3rd District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1066	Amash	Justin			551			N
+2016-08-02	06	00300	0	59	MONTCALM	3rd District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1075	Smith	Douglas			114			N
+2016-08-02	06	00400	0	18	CLARE	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			2520			N
+2016-08-02	06	00400	0	18	CLARE	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			76	W		N
+2016-08-02	06	00400	0	19	CLINTON	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			6544			N
+2016-08-02	06	00400	0	19	CLINTON	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			266	W		N
+2016-08-02	06	00400	0	26	GLADWIN	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			1976			N
+2016-08-02	06	00400	0	26	GLADWIN	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			77	W		N
+2016-08-02	06	00400	0	29	GRATIOT	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			3288			N
+2016-08-02	06	00400	0	29	GRATIOT	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			88	W		N
+2016-08-02	06	00400	0	37	ISABELLA	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			3498			N
+2016-08-02	06	00400	0	37	ISABELLA	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			310	W		N
+2016-08-02	06	00400	0	54	MECOSTA	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			3570			N
+2016-08-02	06	00400	0	54	MECOSTA	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			90	W		N
+2016-08-02	06	00400	0	56	MIDLAND	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			4088			N
+2016-08-02	06	00400	0	56	MIDLAND	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			460	W		N
+2016-08-02	06	00400	0	57	MISSAUKEE	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			2222			N
+2016-08-02	06	00400	0	57	MISSAUKEE	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			21	W		N
+2016-08-02	06	00400	0	59	MONTCALM	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			5775			N
+2016-08-02	06	00400	0	59	MONTCALM	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			52	W		N
+2016-08-02	06	00400	0	65	OGEMAW	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			2667			N
+2016-08-02	06	00400	0	65	OGEMAW	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			49	W		N
+2016-08-02	06	00400	0	67	OSCEOLA	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			2698			N
+2016-08-02	06	00400	0	67	OSCEOLA	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			25	W		N
+2016-08-02	06	00400	0	72	ROSCOMMON	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			3688			N
+2016-08-02	06	00400	0	72	ROSCOMMON	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			83	W		N
+2016-08-02	06	00400	0	73	SAGINAW	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			4381			N
+2016-08-02	06	00400	0	73	SAGINAW	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			167	W		N
+2016-08-02	06	00400	0	78	SHIAWASSEE	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			5968			N
+2016-08-02	06	00400	0	78	SHIAWASSEE	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			198	W		N
+2016-08-02	06	00400	0	83	WEXFORD	4th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1081	Moolenaar	John			5003			N
+2016-08-02	06	00400	0	83	WEXFORD	4th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1103	Wirth	Debra			51	W		N
+2016-08-02	06	00500	0	6	ARENAC	5th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1071	Hardwick	Al			1020			N
+2016-08-02	06	00500	0	6	ARENAC	5th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1058	Kildee	Daniel	T.		733			N
+2016-08-02	06	00500	0	9	BAY	5th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1071	Hardwick	Al			2115			N
+2016-08-02	06	00500	0	9	BAY	5th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1058	Kildee	Daniel	T.		13279			N
+2016-08-02	06	00500	0	25	GENESEE	5th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1071	Hardwick	Al			10279			N
+2016-08-02	06	00500	0	25	GENESEE	5th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1058	Kildee	Daniel	T.		33741			N
+2016-08-02	06	00500	0	35	IOSCO	5th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1071	Hardwick	Al			1970			N
+2016-08-02	06	00500	0	35	IOSCO	5th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1058	Kildee	Daniel	T.		1850			N
+2016-08-02	06	00500	0	73	SAGINAW	5th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1071	Hardwick	Al			1916			N
+2016-08-02	06	00500	0	73	SAGINAW	5th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1058	Kildee	Daniel	T.		8972			N
+2016-08-02	06	00500	0	79	TUSCOLA	5th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1071	Hardwick	Al			946			N
+2016-08-02	06	00500	0	79	TUSCOLA	5th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1058	Kildee	Daniel	T.		515			N
+2016-08-02	06	00600	0	3	ALLEGAN	6th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1064	Upton	Fred			10906			N
+2016-08-02	06	00600	0	3	ALLEGAN	6th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1063	Clements	Paul			2360			N
+2016-08-02	06	00600	0	11	BERRIEN	6th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1064	Upton	Fred			12019			N
+2016-08-02	06	00600	0	11	BERRIEN	6th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1063	Clements	Paul			3844			N
+2016-08-02	06	00600	0	14	CASS	6th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1064	Upton	Fred			4404			N
+2016-08-02	06	00600	0	14	CASS	6th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1063	Clements	Paul			832			N
+2016-08-02	06	00600	0	39	KALAMAZOO	6th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1064	Upton	Fred			10932			N
+2016-08-02	06	00600	0	39	KALAMAZOO	6th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1063	Clements	Paul			11766			N
+2016-08-02	06	00600	0	75	ST. JOSEPH	6th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1064	Upton	Fred			4597			N
+2016-08-02	06	00600	0	75	ST. JOSEPH	6th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1063	Clements	Paul			739			N
+2016-08-02	06	00600	0	80	VAN BUREN	6th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1064	Upton	Fred			6875			N
+2016-08-02	06	00600	0	80	VAN BUREN	6th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1063	Clements	Paul			2081			N
+2016-08-02	06	00700	0	12	BRANCH	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1026	North	Doug			1237			
+2016-08-02	06	00700	0	12	BRANCH	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1053	Walberg	Tim			3482			N
+2016-08-02	06	00700	0	12	BRANCH	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1084	Driskell	Gretchen	D.		506			N
+2016-08-02	06	00700	0	23	EATON	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1026	North	Doug			2052			
+2016-08-02	06	00700	0	23	EATON	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1053	Walberg	Tim			6101			N
+2016-08-02	06	00700	0	23	EATON	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1084	Driskell	Gretchen	D.		5560			N
+2016-08-02	06	00700	0	30	HILLSDALE	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1026	North	Doug			1566			
+2016-08-02	06	00700	0	30	HILLSDALE	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1053	Walberg	Tim			4819			N
+2016-08-02	06	00700	0	30	HILLSDALE	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1084	Driskell	Gretchen	D.		406			N
+2016-08-02	06	00700	0	38	JACKSON	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1026	North	Doug			3640			
+2016-08-02	06	00700	0	38	JACKSON	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1053	Walberg	Tim			10186			N
+2016-08-02	06	00700	0	38	JACKSON	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1084	Driskell	Gretchen	D.		3308			N
+2016-08-02	06	00700	0	46	LENAWEE	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1026	North	Doug			2242			
+2016-08-02	06	00700	0	46	LENAWEE	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1053	Walberg	Tim			6114			N
+2016-08-02	06	00700	0	46	LENAWEE	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1084	Driskell	Gretchen	D.		2096			N
+2016-08-02	06	00700	0	58	MONROE	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1026	North	Doug			1697			
+2016-08-02	06	00700	0	58	MONROE	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1053	Walberg	Tim			6724			N
+2016-08-02	06	00700	0	58	MONROE	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1084	Driskell	Gretchen	D.		7235			N
+2016-08-02	06	00700	0	81	WASHTENAW	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1026	North	Doug			1813			
+2016-08-02	06	00700	0	81	WASHTENAW	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1053	Walberg	Tim			5694			N
+2016-08-02	06	00700	0	81	WASHTENAW	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1084	Driskell	Gretchen	D.		6500			N
+2016-08-02	06	00800	0	33	INGHAM	8th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1078	Bishop	Mike			10430			N
+2016-08-02	06	00800	0	33	INGHAM	8th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1077	Gilbert	Melissa			17512			N
+2016-08-02	06	00800	0	47	LIVINGSTON	8th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1078	Bishop	Mike			19134			N
+2016-08-02	06	00800	0	47	LIVINGSTON	8th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1077	Gilbert	Melissa			3488			N
+2016-08-02	06	00800	0	63	OAKLAND	8th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1078	Bishop	Mike			26860			N
+2016-08-02	06	00800	0	63	OAKLAND	8th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1077	Gilbert	Melissa			7810			N
+2016-08-02	06	00900	0	50	MACOMB	9th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1060	Morse	Christopher	R.		19452			N
+2016-08-02	06	00900	0	50	MACOMB	9th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1069	Levin	Sander			31427			N
+2016-08-02	06	00900	0	63	OAKLAND	9th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1060	Morse	Christopher	R.		13512			N
+2016-08-02	06	00900	0	63	OAKLAND	9th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1069	Levin	Sander			16966			N
+2016-08-02	06	01000	0	32	HURON	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1051	Forlini	Tony			145			
+2016-08-02	06	01000	0	32	HURON	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1045	Mitchell	Paul			1445			N
+2016-08-02	06	01000	0	32	HURON	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1052	Pavlov	Phillip			2258			
+2016-08-02	06	01000	0	32	HURON	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1054	Sanborn	Alan			264			
+2016-08-02	06	01000	0	32	HURON	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1086	VanAssche	David	J.		271			
+2016-08-02	06	01000	0	32	HURON	10th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1076	Accavitti, Jr.	Frank			493			N
+2016-08-02	06	01000	0	44	LAPEER	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1051	Forlini	Tony			554			
+2016-08-02	06	01000	0	44	LAPEER	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1045	Mitchell	Paul			6624			N
+2016-08-02	06	01000	0	44	LAPEER	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1052	Pavlov	Phillip			3025			
+2016-08-02	06	01000	0	44	LAPEER	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1054	Sanborn	Alan			1072			
+2016-08-02	06	01000	0	44	LAPEER	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1086	VanAssche	David	J.		827			
+2016-08-02	06	01000	0	44	LAPEER	10th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1076	Accavitti, Jr.	Frank			1886			N
+2016-08-02	06	01000	0	50	MACOMB	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1051	Forlini	Tony			5590			
+2016-08-02	06	01000	0	50	MACOMB	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1045	Mitchell	Paul			10528			N
+2016-08-02	06	01000	0	50	MACOMB	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1052	Pavlov	Phillip			5806			
+2016-08-02	06	01000	0	50	MACOMB	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1054	Sanborn	Alan			8683			
+2016-08-02	06	01000	0	50	MACOMB	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1086	VanAssche	David	J.		3853			
+2016-08-02	06	01000	0	50	MACOMB	10th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1076	Accavitti, Jr.	Frank			11791			N
+2016-08-02	06	01000	0	74	ST. CLAIR	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1051	Forlini	Tony			1184			
+2016-08-02	06	01000	0	74	ST. CLAIR	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1045	Mitchell	Paul			7184			N
+2016-08-02	06	01000	0	74	ST. CLAIR	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1052	Pavlov	Phillip			7277			
+2016-08-02	06	01000	0	74	ST. CLAIR	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1054	Sanborn	Alan			1530			
+2016-08-02	06	01000	0	74	ST. CLAIR	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1086	VanAssche	David	J.		1245			
+2016-08-02	06	01000	0	74	ST. CLAIR	10th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1076	Accavitti, Jr.	Frank			4988			N
+2016-08-02	06	01000	0	76	SANILAC	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1051	Forlini	Tony			270			
+2016-08-02	06	01000	0	76	SANILAC	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1045	Mitchell	Paul			2722			N
+2016-08-02	06	01000	0	76	SANILAC	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1052	Pavlov	Phillip			2253			
+2016-08-02	06	01000	0	76	SANILAC	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1054	Sanborn	Alan			803			
+2016-08-02	06	01000	0	76	SANILAC	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1086	VanAssche	David	J.		280			
+2016-08-02	06	01000	0	76	SANILAC	10th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1076	Accavitti, Jr.	Frank			688			N
+2016-08-02	06	01000	0	79	TUSCOLA	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1051	Forlini	Tony			145			
+2016-08-02	06	01000	0	79	TUSCOLA	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1045	Mitchell	Paul			1611			N
+2016-08-02	06	01000	0	79	TUSCOLA	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1052	Pavlov	Phillip			1399			
+2016-08-02	06	01000	0	79	TUSCOLA	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1054	Sanborn	Alan			288			
+2016-08-02	06	01000	0	79	TUSCOLA	10th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1086	VanAssche	David	J.		214			
+2016-08-02	06	01000	0	79	TUSCOLA	10th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1076	Accavitti, Jr.	Frank			864			N
+2016-08-02	06	01100	0	63	OAKLAND	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1074	Trott	David	A.		34791			N
+2016-08-02	06	01100	0	63	OAKLAND	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1085	Kumar	Anil			17653			N
+2016-08-02	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1074	Trott	David	A.		16430			N
+2016-08-02	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1085	Kumar	Anil			11696			N
+2016-08-02	06	01200	0	81	WASHTENAW	12th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1072	Jones	Jeff			3568			N
+2016-08-02	06	01200	0	81	WASHTENAW	12th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1056	Dingell	Debbie			24431			N
+2016-08-02	06	01200	0	82	WAYNE	12th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1072	Jones	Jeff			11547			N
+2016-08-02	06	01200	0	82	WAYNE	12th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1056	Dingell	Debbie			30615			N
+2016-08-02	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	-1067	Gorman	Jeff			4894			N
+2016-08-02	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1057	Conyers, Jr.	John			30971			N
+2016-08-02	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1082	Winfrey	Janice			19965			
+2016-08-02	06	01400	0	63	OAKLAND	14th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1070	Klausner	Howard			7977			N
+2016-08-02	06	01400	0	63	OAKLAND	14th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1055	Lawrence	Brenda	L.		25524			N
+2016-08-02	06	01400	0	63	OAKLAND	14th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1025	Morrison	Terrance			1154			
+2016-08-02	06	01400	0	63	OAKLAND	14th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1073	Moss	Vanessa			2296			
+2016-08-02	06	01400	0	82	WAYNE	14th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1070	Klausner	Howard			2987			N
+2016-08-02	06	01400	0	82	WAYNE	14th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1055	Lawrence	Brenda	L.		30020			N
+2016-08-02	06	01400	0	82	WAYNE	14th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1025	Morrison	Terrance			1616			
+2016-08-02	06	01400	0	82	WAYNE	14th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1073	Moss	Vanessa			2957			
+2016-08-02	07	00400	8	82	WAYNE	4th District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	01	REP	Republican	517859	Franklin	Keith			1942			N
+2016-08-02	07	00400	8	82	WAYNE	4th District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	517843	Cole, Jr.	James			1327			
+2016-08-02	07	00400	8	82	WAYNE	4th District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	517678	Conyers	Ian			6063			N
+2016-08-02	07	00400	8	82	WAYNE	4th District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	517848	Durhal, Jr.	Fred			4482			
+2016-08-02	07	00400	8	82	WAYNE	4th District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	517860	Holmes	Patricia	A.		1362			
+2016-08-02	07	00400	8	82	WAYNE	4th District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	517694	Olive	Vanessa	Simpson		773			
+2016-08-02	07	00400	8	82	WAYNE	4th District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	517757	Pinkins	Carron	L.		1104			
+2016-08-02	07	00400	8	82	WAYNE	4th District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	517857	Rayner	Ralph	R.		602			
+2016-08-02	07	00400	8	82	WAYNE	4th District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	517751	Scott	H.	Helena		1272			
+2016-08-02	07	00400	8	82	WAYNE	4th District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	517756	Worthy	Howard			581			
+2016-08-02	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517502	Broman	William			1529			N
+2016-08-02	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517752	Amos	Kameshea	M.		211			
+2016-08-02	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	515833	Banks	Brian	R.		3293			N
+2016-08-02	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517741	Gilchrist	Corey	J.		218			
+2016-08-02	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517418	Hollowell	Keith			407			
+2016-08-02	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517427	Sossi	Pamela			2618			
+2016-08-02	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517478	Youson	Washington			573			
+2016-08-02	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County (RECOUNT)	01	REP	Republican	517729	Augustine	Molly			414		*	
+2016-08-02	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County (RECOUNT)	01	REP	Republican	515144	Murray	Anthony	Matthew		679		*	N
+2016-08-02	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County (RECOUNT)	02	DEM	Democratic	517586	Bell	Willie			1330		*	
+2016-08-02	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County (RECOUNT)	02	DEM	Democratic	517472	Henner	Jeremy			1217		*	
+2016-08-02	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County (RECOUNT)	02	DEM	Democratic	517375	Hunt	Angles	L.		120		*	
+2016-08-02	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County (RECOUNT)	02	DEM	Democratic	517532	Jones	E.	Regina		178		*	
+2016-08-02	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County (RECOUNT)	02	DEM	Democratic	517638	Scott	Bettie	Cook		1655		*	N
+2016-08-02	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County (RECOUNT)	02	DEM	Democratic	517721	Tate	Joseph			1057		*	
+2016-08-02	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County (RECOUNT)	02	DEM	Democratic	517290	Tinsley-Smith	Carla		Formerly: Carla Louise Smith	1638		*	
+2016-08-02	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517730	Brodersen	John			61			N
+2016-08-02	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517592	Bonner-Archer	April			756			
+2016-08-02	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516848	Byrd	Wendell	L.		3136			N
+2016-08-02	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517485	Foster	Burgess			357			
+2016-08-02	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517349	McKinney	Donavan			1059			
+2016-08-02	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517740	Mitchell	Damian	Christian		172			
+2016-08-02	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517801	Qualls	Lee			140			
+2016-08-02	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517800	Williams	Al			1285			
+2016-08-02	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517723	Schonert	Matt			125			N
+2016-08-02	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517569	Bell	Charles	A.		362			
+2016-08-02	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517677	Hassan	Mohammed			318			
+2016-08-02	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517771	Jones	Quincy			1175			
+2016-08-02	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517715	Motley	Jumar			157			
+2016-08-02	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	515921	Robinson	Rose Mary	C.		3238			N
+2016-08-02	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517621	Russell	Tracy			267			
+2016-08-02	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517691	Shaw	Abraham			76			
+2016-08-02	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517724	Patterson	Dorthy			59			N
+2016-08-02	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516590	Durhal	Fred			2250			N
+2016-08-02	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517450	Johnson	Cynthia	A.		1670			
+2016-08-02	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517731	Pollard	Attie			115			N
+2016-08-02	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517421	Black	Dennis	L.		559			
+2016-08-02	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516433	Chang	Stephanie			5271			N
+2016-08-02	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517510	Jackson	Deirdre			505			
+2016-08-02	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517829	Malone, Jr.	Donnie	N.		109			
+2016-08-02	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517841	Redding	Dwayne			139			
+2016-08-02	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517470	Sanchez	David			485			
+2016-08-02	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517042	Walker-Keith	Casondria			376			
+2016-08-02	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517785	Barr	Gina	Alicia		36			N
+2016-08-02	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	514145	Garrett	LaTanya			6503			N
+2016-08-02	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517789	Thompson	Bernard			1406			
+2016-08-02	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517725	Rynicki	Jennifer			84			N
+2016-08-02	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	515680	Gay-Dagnogo	Sherry			7195			N
+2016-08-02	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517758	Stephens	James			121			N
+2016-08-02	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517589	Carter	Annie			151			
+2016-08-02	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517434	Morris	Tijuana			193			
+2016-08-02	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517790	Murphy	Alicia			242			
+2016-08-02	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	514968	Phillips	William			95			
+2016-08-02	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517630	Pollard	Gary	S.		1835			
+2016-08-02	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517456	Ross	Regina			536			
+2016-08-02	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517263	Santana	Sylvia			2972			N
+2016-08-02	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517727	Brang	William			648			N
+2016-08-02	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517840	Cavanagh	Mary			2160			
+2016-08-02	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517832	Jefferson	Elizabeth			403			
+2016-08-02	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516888	Love	Leslie			6236			N
+2016-08-02	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517838	Mazur	Mary			553			
+2016-08-02	08	01100	0	82	WAYNE	11th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517503	Pope	Robert			688			N
+2016-08-02	08	01100	0	82	WAYNE	11th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517641	Prosser	Dale			596			
+2016-08-02	08	01100	0	82	WAYNE	11th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517924	Jones	Jewell			3462			N
+2016-08-02	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517726	Soderquist	Erik			1394			N
+2016-08-02	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516452	Geiss	Erika			4013			N
+2016-08-02	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517344	Martell	Edward	F.		1216			
+2016-08-02	08	01300	0	82	WAYNE	13th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517728	Spencer	Annie	L.		1864			N
+2016-08-02	08	01300	0	82	WAYNE	13th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	514741	Liberati	Frank			3712			N
+2016-08-02	08	01300	0	82	WAYNE	13th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517811	Reed	Rebecca			1338			
+2016-08-02	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517733	Stasik	Darrell			1501			N
+2016-08-02	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517601	Chicoine	Jeff			1282			
+2016-08-02	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517612	Clemente	Cara			2397			N
+2016-08-02	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517636	Maranian	John	Anthony		228			
+2016-08-02	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517766	Peric	Daniela			657			
+2016-08-02	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517549	Gerin	Terrance	Guido		1033			N
+2016-08-02	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517570	Johnson	Richard	B.		705			
+2016-08-02	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517288	Sophiea	Paul	E.		979			
+2016-08-02	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517590	Alsahoury	Norman	B.		42			
+2016-08-02	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517414	Hammoud	Abdullah			3477			N
+2016-08-02	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517530	McDonald	Roxanne			1861			
+2016-08-02	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517737	Shami	Alex			145			
+2016-08-02	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517232	Stone	Brian			2641			
+2016-08-02	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517498	Zeidan	Jacklin			957			
+2016-08-02	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517646	Gaffka	Pat			683			
+2016-08-02	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517376	Morrow	Matthew			1093			N
+2016-08-02	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	515561	Kosowski	Robert	L.		4985			N
+2016-08-02	08	01700	0	58	MONROE	17th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517544	Bellino, Jr.	Joseph			2283			N
+2016-08-02	08	01700	0	58	MONROE	17th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515859	LaVoy	Bill			3854			N
+2016-08-02	08	01700	0	82	WAYNE	17th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517544	Bellino, Jr.	Joseph			480			N
+2016-08-02	08	01700	0	82	WAYNE	17th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515859	LaVoy	Bill			1310			N
+2016-08-02	08	01800	0	50	MACOMB	18th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517439	Polonaise	Renata			4220			N
+2016-08-02	08	01800	0	50	MACOMB	18th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517674	Fleck	Steven	Joseph		509			
+2016-08-02	08	01800	0	50	MACOMB	18th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517779	Francis	Paul	R.		1184			
+2016-08-02	08	01800	0	50	MACOMB	18th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517236	Hertel	Kevin			5454			N
+2016-08-02	08	01900	0	82	WAYNE	19th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	516645	Cox	Laura			5394			N
+2016-08-02	08	01900	0	82	WAYNE	19th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	514052	King	Steve			2606			N
+2016-08-02	08	01900	0	82	WAYNE	19th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517767	Smith	Jon			1881			
+2016-08-02	08	02000	0	82	WAYNE	20th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517778	Neilson	Jeffrey	T.		1834			
+2016-08-02	08	02000	0	82	WAYNE	20th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517433	Noble	Jeff			3317			N
+2016-08-02	08	02000	0	82	WAYNE	20th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517400	Roosen	Chris			3201			
+2016-08-02	08	02000	0	82	WAYNE	20th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517538	Pobur	Colleen			2937			N
+2016-08-02	08	02000	0	82	WAYNE	20th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517662	Sullivan	John	J.		1376			
+2016-08-02	08	02100	0	82	WAYNE	21st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517732	Moss	Derek			3278			N
+2016-08-02	08	02100	0	82	WAYNE	21st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516327	Pagan	Kristy			5258			N
+2016-08-02	08	02200	0	50	MACOMB	22nd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517565	Bonnell	Jeff			2411			N
+2016-08-02	08	02200	0	50	MACOMB	22nd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	516607	Chirkun	John			3389			N
+2016-08-02	08	02200	0	50	MACOMB	22nd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517670	Reid	Nicole			1615			
+2016-08-02	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517827	Frazier	Michael			382			
+2016-08-02	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517383	Howey	Bob			3150			N
+2016-08-02	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517602	Taylor	Mike			580			
+2016-08-02	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517294	Berecz	Sherry	A.		2456			
+2016-08-02	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517302	Camilleri	Darrin			2623			N
+2016-08-02	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517839	Petrucci	Elayne	M.		375			
+2016-08-02	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517285	Rzeppa	Steven			1895			
+2016-08-02	08	02400	0	50	MACOMB	24th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517481	Marino	Steve			4992			N
+2016-08-02	08	02400	0	50	MACOMB	24th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517463	Smith	Arzo	F.		191			
+2016-08-02	08	02400	0	50	MACOMB	24th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517402	Smith	Daryl	L.		1092			
+2016-08-02	08	02400	0	50	MACOMB	24th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	516558	Aiello	Mike			54	W		
+2016-08-02	08	02400	0	50	MACOMB	24th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517373	Camphous-Peterson	Dana			4356			N
+2016-08-02	08	02500	0	50	MACOMB	25th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517480	Albers	Ronald	Simon		1834			
+2016-08-02	08	02500	0	50	MACOMB	25th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517686	Naumovski	Steve			2154			N
+2016-08-02	08	02500	0	50	MACOMB	25th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517542	Sproles	Jacqueline			1164			
+2016-08-02	08	02500	0	50	MACOMB	25th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	515708	Yanez	Henry			4201			N
+2016-08-02	08	02600	0	63	OAKLAND	26th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	517648	LeVasseur	Randy			3969			N
+2016-08-02	08	02600	0	63	OAKLAND	26th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	517453	Ellison	Jim			6561			N
+2016-08-02	08	02700	0	63	OAKLAND	27th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	517676	Forrest	Kyle			1275			N
+2016-08-02	08	02700	0	63	OAKLAND	27th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	517772	Graziano	Stefan			922			
+2016-08-02	08	02700	0	63	OAKLAND	27th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	516341	Wittenberg	Robert			9567			N
+2016-08-02	08	02800	0	50	MACOMB	28th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517753	Davison	Antoine	M.		2323			N
+2016-08-02	08	02800	0	50	MACOMB	28th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517513	Green	Patrick			2517			N
+2016-08-02	08	02800	0	50	MACOMB	28th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517522	Kardasz	Paul	M.		259			
+2016-08-02	08	02800	0	50	MACOMB	28th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517614	Stone	Lori	M.		1536			
+2016-08-02	08	02800	0	50	MACOMB	28th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517647	Westphal	Mike			690			
+2016-08-02	08	02800	8	50	MACOMB	28th District Representative in State Legislature Partial Term Ending 01/01/2017 (1) Position Files In MACOMB County	01	REP	Republican	517753	Davison	Antoine	M.		2149			N
+2016-08-02	08	02800	8	50	MACOMB	28th District Representative in State Legislature Partial Term Ending 01/01/2017 (1) Position Files In MACOMB County	02	DEM	Democratic	517513	Green	Patrick			2391			N
+2016-08-02	08	02800	8	50	MACOMB	28th District Representative in State Legislature Partial Term Ending 01/01/2017 (1) Position Files In MACOMB County	02	DEM	Democratic	517522	Kardasz	Paul	M.		264			
+2016-08-02	08	02800	8	50	MACOMB	28th District Representative in State Legislature Partial Term Ending 01/01/2017 (1) Position Files In MACOMB County	02	DEM	Democratic	517614	Stone	Lori	M.		1534			
+2016-08-02	08	02800	8	50	MACOMB	28th District Representative in State Legislature Partial Term Ending 01/01/2017 (1) Position Files In MACOMB County	02	DEM	Democratic	517647	Westphal	Mike			710			
+2016-08-02	08	02900	0	63	OAKLAND	29th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	517812	Griffith	Garren	W.		1098			N
+2016-08-02	08	02900	0	63	OAKLAND	29th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	517615	Trzos	Peter			837			
+2016-08-02	08	02900	0	63	OAKLAND	29th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	515596	Greimel	Tim			4502			N
+2016-08-02	08	03000	0	50	MACOMB	30th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517774	Bogdan	Joseph			640			
+2016-08-02	08	03000	0	50	MACOMB	30th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517422	Farrington	Diana			2287			N
+2016-08-02	08	03000	0	50	MACOMB	30th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517773	Ryan	Jackie			556			
+2016-08-02	08	03000	0	50	MACOMB	30th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	514674	Shallal	Michael		Formerly: Michael S. Shallal	2233			
+2016-08-02	08	03000	0	50	MACOMB	30th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517627	Notte	Michael	R.		2453			N
+2016-08-02	08	03000	0	50	MACOMB	30th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517629	Spica	John			724			
+2016-08-02	08	03100	0	50	MACOMB	31st District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517803	Negipe	Austin			1093			
+2016-08-02	08	03100	0	50	MACOMB	31st District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517754	Valerio-Nowc	Lisa			2205			N
+2016-08-02	08	03100	0	50	MACOMB	31st District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517575	Brewington	Michael			1263			
+2016-08-02	08	03100	0	50	MACOMB	31st District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517385	Sowerby	William	J.		4561			N
+2016-08-02	08	03200	0	50	MACOMB	32nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517552	Hornberger	Pamela			1549			N
+2016-08-02	08	03200	0	50	MACOMB	32nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	514822	Shmina	Michael			1121			
+2016-08-02	08	03200	0	50	MACOMB	32nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517571	Tranchita	Justin			1299			
+2016-08-02	08	03200	0	50	MACOMB	32nd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517679	Manley	Paul			2147			N
+2016-08-02	08	03200	0	74	ST. CLAIR	32nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517552	Hornberger	Pamela			1229			N
+2016-08-02	08	03200	0	74	ST. CLAIR	32nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	514822	Shmina	Michael			1129			
+2016-08-02	08	03200	0	74	ST. CLAIR	32nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517571	Tranchita	Justin			586			
+2016-08-02	08	03200	0	74	ST. CLAIR	32nd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517679	Manley	Paul			738			N
+2016-08-02	08	03300	0	50	MACOMB	33rd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517297	Carl	Colleen			2133			
+2016-08-02	08	03300	0	50	MACOMB	33rd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517657	Cusumano	Julianne			836			
+2016-08-02	08	03300	0	50	MACOMB	33rd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517545	Karafa	Charles			328			
+2016-08-02	08	03300	0	50	MACOMB	33rd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517317	Koch	Mel			1496			
+2016-08-02	08	03300	0	50	MACOMB	33rd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517622	Stoll	Steven			289			
+2016-08-02	08	03300	0	50	MACOMB	33rd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517293	Yaroch	Jeff			3160			N
+2016-08-02	08	03300	0	50	MACOMB	33rd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517783	Warda	Yani			2841			N
+2016-08-02	08	03400	0	25	GENESEE	34th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	01	REP	Republican	517781	Brousseau	Page			191			N
+2016-08-02	08	03400	0	25	GENESEE	34th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	02	DEM	Democratic	516678	Neeley	Sheldon	A.		5493			N
+2016-08-02	08	03500	0	63	OAKLAND	35th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	517381	Brim	Robert			2155			N
+2016-08-02	08	03500	0	63	OAKLAND	35th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	516409	Moss	Jeremy			11220			N
+2016-08-02	08	03600	0	50	MACOMB	36th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	516494	Lucido	Peter	J.		10459			N
+2016-08-02	08	03600	0	50	MACOMB	36th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517755	Young	Diane			2082			N
+2016-08-02	08	03700	0	63	OAKLAND	37th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	517693	Beer	Matt			1742			
+2016-08-02	08	03700	0	63	OAKLAND	37th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	517764	Swoboda	Mitch			2316			N
+2016-08-02	08	03700	0	63	OAKLAND	37th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	516446	Greig	Christine			6118			N
+2016-08-02	08	03800	0	63	OAKLAND	38th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	516345	Crawford	Kathy	S.		5266			N
+2016-08-02	08	03800	0	63	OAKLAND	38th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	517665	Lauffer	Carson	Daniel		2359			
+2016-08-02	08	03800	0	63	OAKLAND	38th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	517499	Dorsch	Jason	G.W.		569			
+2016-08-02	08	03800	0	63	OAKLAND	38th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	517804	McCusker	Amy			3045			N
+2016-08-02	08	03900	0	63	OAKLAND	39th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	515755	Kesto	Klint			5802			N
+2016-08-02	08	03900	0	63	OAKLAND	39th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	517765	Stack	Michael			4518			N
+2016-08-02	08	04000	0	63	OAKLAND	40th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	515922	McCready	Michael	D.		9863			N
+2016-08-02	08	04000	0	63	OAKLAND	40th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	517645	Bedi	Nicole			5591			N
+2016-08-02	08	04100	0	63	OAKLAND	41st District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	515773	Howrylak	Martin			5251			N
+2016-08-02	08	04100	0	63	OAKLAND	41st District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	517632	Manier	Ryan			1041			
+2016-08-02	08	04100	0	63	OAKLAND	41st District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	517759	Peltonen	Cyndi			3492			N
+2016-08-02	08	04200	0	47	LIVINGSTON	42nd District Representative in State Legislature 2 Year Term (1) Position Files In LIVINGSTON County	01	REP	Republican	516359	Theis	Lana	L.		10266			N
+2016-08-02	08	04200	0	47	LIVINGSTON	42nd District Representative in State Legislature 2 Year Term (1) Position Files In LIVINGSTON County	02	DEM	Democratic	516799	Johnson	Timothy			2628			N
+2016-08-02	08	04300	0	63	OAKLAND	43rd District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	516608	Tedder	Jim			9136			N
+2016-08-02	08	04300	0	63	OAKLAND	43rd District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	517735	Villella	Ted			3410			N
+2016-08-02	08	04400	0	63	OAKLAND	44th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	516358	Runestad	Jim			9613			N
+2016-08-02	08	04400	0	63	OAKLAND	44th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	516836	Venie	Mark			2906			N
+2016-08-02	08	04500	0	63	OAKLAND	45th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	01	REP	Republican	516489	Webber	Michael			6883			N
+2016-08-02	08	04500	0	63	OAKLAND	45th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	517760	Eickholdt	Immanuel			950			
+2016-08-02	08	04500	0	63	OAKLAND	45th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County	02	DEM	Democratic	517695	Golden	Ted			2170			N
+2016-08-02	08	04600	0	63	OAKLAND	46th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County (RECOUNT)	01	REP	Republican	517283	Kent	Joe			6459		*	
+2016-08-02	08	04600	0	63	OAKLAND	46th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County (RECOUNT)	01	REP	Republican	517367	Reilly	John			6474		*	N
+2016-08-02	08	04600	0	63	OAKLAND	46th District Representative in State Legislature 2 Year Term (1) Position Files In OAKLAND County (RECOUNT)	02	DEM	Democratic	516727	Lillis	David			2940		*	N
+2016-08-02	08	04700	0	47	LIVINGSTON	47th District Representative in State Legislature 2 Year Term (1) Position Files In LIVINGSTON County	01	REP	Republican	516322	Vaupel	Hank			8506			N
+2016-08-02	08	04700	0	47	LIVINGSTON	47th District Representative in State Legislature 2 Year Term (1) Position Files In LIVINGSTON County	02	DEM	Democratic	517776	Van Houten	Keith			1606			N
+2016-08-02	08	04800	0	25	GENESEE	48th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	01	REP	Republican	517658	Reno	Joseph			2365			N
+2016-08-02	08	04800	0	25	GENESEE	48th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	02	DEM	Democratic	515681	Faris	Pam			7338			N
+2016-08-02	08	04900	0	25	GENESEE	49th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	01	REP	Republican	517745	Baker	Jeremy	A.		595			N
+2016-08-02	08	04900	0	25	GENESEE	49th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	01	REP	Republican	517666	Duvendeck	Patrick			571			
+2016-08-02	08	04900	0	25	GENESEE	49th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	02	DEM	Democratic	516357	Phelps	Phil			8003			N
+2016-08-02	08	05000	0	25	GENESEE	50th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	01	REP	Republican	517831	Matheny	Michael	N.		1975			N
+2016-08-02	08	05000	0	25	GENESEE	50th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	01	REP	Republican	517704	Seal	Jackie			1118			
+2016-08-02	08	05000	0	25	GENESEE	50th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	02	DEM	Democratic	517226	Freiberger	Raymond	R.		2181			
+2016-08-02	08	05000	0	25	GENESEE	50th District Representative in State Legislature 2 Year Term (1) Position Files In GENESEE County	02	DEM	Democratic	517469	Sneller	Tim			4537			N
+2016-08-02	08	05100	0	25	GENESEE	51st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	515644	Graves	Joseph			3086			N
+2016-08-02	08	05100	0	25	GENESEE	51st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517380	Houston	Katherine			573			
+2016-08-02	08	05100	0	25	GENESEE	51st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517667	Lauve	John			489			
+2016-08-02	08	05100	0	25	GENESEE	51st District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517788	Bladzik	Ryan			4082			N
+2016-08-02	08	05100	0	63	OAKLAND	51st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	515644	Graves	Joseph			1183			N
+2016-08-02	08	05100	0	63	OAKLAND	51st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517380	Houston	Katherine			308			
+2016-08-02	08	05100	0	63	OAKLAND	51st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517667	Lauve	John			407			
+2016-08-02	08	05100	0	63	OAKLAND	51st District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517788	Bladzik	Ryan			651			N
+2016-08-02	08	05200	0	81	WASHTENAW	52nd District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	01	REP	Republican	517476	Clark	Randy			5850			N
+2016-08-02	08	05200	0	81	WASHTENAW	52nd District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	517278	Fuller	Barbara	Ryan		3312			
+2016-08-02	08	05200	0	81	WASHTENAW	52nd District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	517301	Lasinski	Donna			3649			N
+2016-08-02	08	05300	0	81	WASHTENAW	53rd District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	01	REP	Republican	517761	Bissell	Samuel			825			N
+2016-08-02	08	05300	0	81	WASHTENAW	53rd District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	517661	Kwasny	Steven			1225			
+2016-08-02	08	05300	0	81	WASHTENAW	53rd District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	517312	Rabhi	Yousef			7237			N
+2016-08-02	08	05400	0	81	WASHTENAW	54th District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	01	REP	Republican	517588	Jardine	Kevin			1372			N
+2016-08-02	08	05400	0	81	WASHTENAW	54th District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	517382	Brown	Anne			2189			
+2016-08-02	08	05400	0	81	WASHTENAW	54th District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	517626	Cardenas	Lisa			953			
+2016-08-02	08	05400	0	81	WASHTENAW	54th District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	517805	Krebaum	Bill			213			
+2016-08-02	08	05400	0	81	WASHTENAW	54th District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	517550	Peoples	Gregory	A.		1547			
+2016-08-02	08	05400	0	81	WASHTENAW	54th District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	517842	Peterson	Ronnie	D.		2940			N
+2016-08-02	08	05400	0	81	WASHTENAW	54th District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	514577	White	Michael			633			
+2016-08-02	08	05500	0	81	WASHTENAW	55th District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	01	REP	Republican	517711	Baird	Bob			1830			N
+2016-08-02	08	05500	0	81	WASHTENAW	55th District Representative in State Legislature 2 Year Term (1) Position Files In WASHTENAW County	02	DEM	Democratic	515686	Zemke	Adam	F.		7544			N
+2016-08-02	08	05600	0	58	MONROE	56th District Representative in State Legislature 2 Year Term (1) Position Files In MONROE County	01	REP	Republican	516490	Sheppard	Jason	M.		5446			N
+2016-08-02	08	05600	0	58	MONROE	56th District Representative in State Legislature 2 Year Term (1) Position Files In MONROE County	02	DEM	Democratic	516795	Redmond	Tom		Formerly: William Thomas Redmond, Jr.	3705			N
+2016-08-02	08	05700	0	46	LENAWEE	57th District Representative in State Legislature 2 Year Term (1) Position Files In LENAWEE County	01	REP	Republican	517675	Cottrell	Jim			2253			
+2016-08-02	08	05700	0	46	LENAWEE	57th District Representative in State Legislature 2 Year Term (1) Position Files In LENAWEE County	01	REP	Republican	517637	Good	Brian			608			
+2016-08-02	08	05700	0	46	LENAWEE	57th District Representative in State Legislature 2 Year Term (1) Position Files In LENAWEE County	01	REP	Republican	517514	Kahle	Bronna			4929			N
+2016-08-02	08	05700	0	46	LENAWEE	57th District Representative in State Legislature 2 Year Term (1) Position Files In LENAWEE County	02	DEM	Democratic	514365	Schmidt	Harvey			1976			N
+2016-08-02	08	05800	0	12	BRANCH	58th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516670	Leutheuser	Eric			4211			N
+2016-08-02	08	05800	0	12	BRANCH	58th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517817	Hamaty	Mary			472			N
+2016-08-02	08	05800	0	30	HILLSDALE	58th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516670	Leutheuser	Eric			5906			N
+2016-08-02	08	05800	0	30	HILLSDALE	58th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517817	Hamaty	Mary			402			N
+2016-08-02	08	05900	0	14	CASS	59th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516647	Miller	Aaron			2688			N
+2016-08-02	08	05900	0	14	CASS	59th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517680	Higgins	Carol	L.		520			N
+2016-08-02	08	05900	0	75	ST. JOSEPH	59th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516647	Miller	Aaron			4860			N
+2016-08-02	08	05900	0	75	ST. JOSEPH	59th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517680	Higgins	Carol	L.		745			N
+2016-08-02	08	06000	0	39	KALAMAZOO	60th District Representative in State Legislature 2 Year Term (1) Position Files In KALAMAZOO County	01	REP	Republican	517696	Ross	Alexander			1428			N
+2016-08-02	08	06000	0	39	KALAMAZOO	60th District Representative in State Legislature 2 Year Term (1) Position Files In KALAMAZOO County	02	DEM	Democratic	516478	Hoadley	Jon			5482			N
+2016-08-02	08	06100	0	39	KALAMAZOO	61st District Representative in State Legislature 2 Year Term (1) Position Files In KALAMAZOO County	01	REP	Republican	516514	Iden	Brandt			4555			N
+2016-08-02	08	06100	0	39	KALAMAZOO	61st District Representative in State Legislature 2 Year Term (1) Position Files In KALAMAZOO County	02	DEM	Democratic	516716	Fisher	John			4020			N
+2016-08-02	08	06200	0	13	CALHOUN	62nd District Representative in State Legislature 2 Year Term (1) Position Files In CALHOUN County	01	REP	Republican	516518	Bizon	John			4269			N
+2016-08-02	08	06200	0	13	CALHOUN	62nd District Representative in State Legislature 2 Year Term (1) Position Files In CALHOUN County	02	DEM	Democratic	517377	Haadsma	Jim			2939			N
+2016-08-02	08	06300	0	13	CALHOUN	63rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516540	Maturen	David	C.		3362			N
+2016-08-02	08	06300	0	13	CALHOUN	63rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517819	Shiflea	Lynn			1059			N
+2016-08-02	08	06300	0	39	KALAMAZOO	63rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516540	Maturen	David	C.		2968			N
+2016-08-02	08	06300	0	39	KALAMAZOO	63rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517819	Shiflea	Lynn			1638			N
+2016-08-02	08	06400	0	38	JACKSON	64th District Representative in State Legislature 2 Year Term (1) Position Files In JACKSON County	01	REP	Republican	517237	Alexander	Julie			3479			N
+2016-08-02	08	06400	0	38	JACKSON	64th District Representative in State Legislature 2 Year Term (1) Position Files In JACKSON County	01	REP	Republican	517706	Griffin	John	M.		2256			
+2016-08-02	08	06400	0	38	JACKSON	64th District Representative in State Legislature 2 Year Term (1) Position Files In JACKSON County	01	REP	Republican	517275	Tripp	Phil			2491			
+2016-08-02	08	06400	0	38	JACKSON	64th District Representative in State Legislature 2 Year Term (1) Position Files In JACKSON County	02	DEM	Democratic	517391	Bormuth	Peter	C.		419			
+2016-08-02	08	06400	0	38	JACKSON	64th District Representative in State Legislature 2 Year Term (1) Position Files In JACKSON County	02	DEM	Democratic	517533	Brooks	Ron			1240			N
+2016-08-02	08	06500	0	23	EATON	65th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517746	Commet	Robert	Paul		114			
+2016-08-02	08	06500	0	23	EATON	65th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516873	Roberts	Brett			911			N
+2016-08-02	08	06500	0	23	EATON	65th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517524	Cochran Toops	Val			65			
+2016-08-02	08	06500	0	23	EATON	65th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517635	Johnson	Bonnie			369			N
+2016-08-02	08	06500	0	38	JACKSON	65th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517746	Commet	Robert	Paul		1649			
+2016-08-02	08	06500	0	38	JACKSON	65th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516873	Roberts	Brett			4069			N
+2016-08-02	08	06500	0	38	JACKSON	65th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517524	Cochran Toops	Val			314			
+2016-08-02	08	06500	0	38	JACKSON	65th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517635	Johnson	Bonnie			1335			N
+2016-08-02	08	06500	0	46	LENAWEE	65th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517746	Commet	Robert	Paul		77			
+2016-08-02	08	06500	0	46	LENAWEE	65th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516873	Roberts	Brett			409			N
+2016-08-02	08	06500	0	46	LENAWEE	65th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517524	Cochran Toops	Val			19			
+2016-08-02	08	06500	0	46	LENAWEE	65th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517635	Johnson	Bonnie			122			N
+2016-08-02	08	06600	0	39	KALAMAZOO	66th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517309	Griffin	Beth			1071			N
+2016-08-02	08	06600	0	39	KALAMAZOO	66th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517262	Kolich	Greg			190			
+2016-08-02	08	06600	0	39	KALAMAZOO	66th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517426	Nilson	Matthew	T.		337			
+2016-08-02	08	06600	0	39	KALAMAZOO	66th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516383	Brown	Annie			524			N
+2016-08-02	08	06600	0	39	KALAMAZOO	66th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517616	Kerley	Dylan			63			
+2016-08-02	08	06600	0	80	VAN BUREN	66th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517309	Griffin	Beth			4405			N
+2016-08-02	08	06600	0	80	VAN BUREN	66th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517262	Kolich	Greg			587			
+2016-08-02	08	06600	0	80	VAN BUREN	66th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517426	Nilson	Matthew	T.		2431			
+2016-08-02	08	06600	0	80	VAN BUREN	66th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516383	Brown	Annie			1976			N
+2016-08-02	08	06600	0	80	VAN BUREN	66th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517616	Kerley	Dylan			239			
+2016-08-02	08	06700	0	33	INGHAM	67th District Representative in State Legislature 2 Year Term (1) Position Files In INGHAM County	01	REP	Republican	517608	Clark	Leon	R.		3081			N
+2016-08-02	08	06700	0	33	INGHAM	67th District Representative in State Legislature 2 Year Term (1) Position Files In INGHAM County	01	REP	Republican	517784	Ketchum	Jerry			2335			
+2016-08-02	08	06700	0	33	INGHAM	67th District Representative in State Legislature 2 Year Term (1) Position Files In INGHAM County	02	DEM	Democratic	515858	Cochran	Tom			5407			N
+2016-08-02	08	06700	0	33	INGHAM	67th District Representative in State Legislature 2 Year Term (1) Position Files In INGHAM County	02	DEM	Democratic	517264	Findlay	Alec			820			
+2016-08-02	08	06800	0	33	INGHAM	68th District Representative in State Legislature 2 Year Term (1) Position Files In INGHAM County	01	REP	Republican	517672	Pilon	Randy			1857			N
+2016-08-02	08	06800	0	33	INGHAM	68th District Representative in State Legislature 2 Year Term (1) Position Files In INGHAM County	02	DEM	Democratic	517844	Davenport	Chris	G.		760			
+2016-08-02	08	06800	0	33	INGHAM	68th District Representative in State Legislature 2 Year Term (1) Position Files In INGHAM County	02	DEM	Democratic	517845	Nelson	Eric			707			
+2016-08-02	08	06800	0	33	INGHAM	68th District Representative in State Legislature 2 Year Term (1) Position Files In INGHAM County	02	DEM	Democratic	515501	Schor	Andy			6388			N
+2016-08-02	08	06900	0	33	INGHAM	69th District Representative in State Legislature 2 Year Term (1) Position Files In INGHAM County	01	REP	Republican	517673	Nastas	George			2737			N
+2016-08-02	08	06900	0	33	INGHAM	69th District Representative in State Legislature 2 Year Term (1) Position Files In INGHAM County	02	DEM	Democratic	515524	Singh	Sam			8142			N
+2016-08-02	08	07000	0	29	GRATIOT	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517710	Alexander	Gregory	S.		67			
+2016-08-02	08	07000	0	29	GRATIOT	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517401	Lower	James	A.		827			N
+2016-08-02	08	07000	0	29	GRATIOT	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517705	Mulholland	L.	Charles		208			
+2016-08-02	08	07000	0	29	GRATIOT	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517444	Putansu	Jeremy	M.		70			
+2016-08-02	08	07000	0	29	GRATIOT	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517739	Reyburn	Dale			194			
+2016-08-02	08	07000	0	29	GRATIOT	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517652	Van Kleeck	Michael			196			
+2016-08-02	08	07000	0	29	GRATIOT	70th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516648	Hart	Ken			390			N
+2016-08-02	08	07000	0	59	MONTCALM	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517710	Alexander	Gregory	S.		566			
+2016-08-02	08	07000	0	59	MONTCALM	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517401	Lower	James	A.		3327			N
+2016-08-02	08	07000	0	59	MONTCALM	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517705	Mulholland	L.	Charles		1078			
+2016-08-02	08	07000	0	59	MONTCALM	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517444	Putansu	Jeremy	M.		233			
+2016-08-02	08	07000	0	59	MONTCALM	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517739	Reyburn	Dale			893			
+2016-08-02	08	07000	0	59	MONTCALM	70th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517652	Van Kleeck	Michael			1621			
+2016-08-02	08	07000	0	59	MONTCALM	70th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516648	Hart	Ken			866			N
+2016-08-02	08	07100	0	23	EATON	71st District Representative in State Legislature 2 Year Term (1) Position Files In EATON County	01	REP	Republican	516415	Barrett	Tom			6686			N
+2016-08-02	08	07100	0	23	EATON	71st District Representative in State Legislature 2 Year Term (1) Position Files In EATON County	02	DEM	Democratic	514697	Abed	Theresa			5202			N
+2016-08-02	08	07200	0	3	ALLEGAN	72nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517403	Coughlin	Robert	D.		147			
+2016-08-02	08	07200	0	3	ALLEGAN	72nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517428	Gallogly	Ryan			348			
+2016-08-02	08	07200	0	3	ALLEGAN	72nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517717	Hirsch	Bill			515			
+2016-08-02	08	07200	0	3	ALLEGAN	72nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517449	Johnson	Steven			1017			N
+2016-08-02	08	07200	0	3	ALLEGAN	72nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517318	Noto	Tony			415			
+2016-08-02	08	07200	0	3	ALLEGAN	72nd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517474	Cunningham	Dick			109			
+2016-08-02	08	07200	0	3	ALLEGAN	72nd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517813	Shoemaker	Steve			237			N
+2016-08-02	08	07200	0	41	KENT	72nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517403	Coughlin	Robert	D.		499			
+2016-08-02	08	07200	0	41	KENT	72nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517428	Gallogly	Ryan			1207			
+2016-08-02	08	07200	0	41	KENT	72nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517717	Hirsch	Bill			852			
+2016-08-02	08	07200	0	41	KENT	72nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517449	Johnson	Steven			1240			N
+2016-08-02	08	07200	0	41	KENT	72nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517318	Noto	Tony			1333			
+2016-08-02	08	07200	0	41	KENT	72nd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517474	Cunningham	Dick			574			
+2016-08-02	08	07200	0	41	KENT	72nd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517813	Shoemaker	Steve			986			N
+2016-08-02	08	07300	0	41	KENT	73rd District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	01	REP	Republican	516444	Afendoulis	Chris			9367			N
+2016-08-02	08	07300	0	41	KENT	73rd District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	02	DEM	Democratic	517656	Havens	Deb			3227			N
+2016-08-02	08	07400	0	41	KENT	74th District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	01	REP	Republican	515602	Verheulen	Rob			7365			N
+2016-08-02	08	07400	0	41	KENT	74th District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	02	DEM	Democratic	517768	Bigger	Robin			2087			N
+2016-08-02	08	07500	0	41	KENT	75th District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	01	REP	Republican	517642	Rossiter	Chad	C.		1153			N
+2016-08-02	08	07500	0	41	KENT	75th District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	02	DEM	Democratic	517249	LaGrand	David			3283			N
+2016-08-02	08	07600	0	41	KENT	76th District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	01	REP	Republican	517410	O'Neill	Casey	J.		3351			N
+2016-08-02	08	07600	0	41	KENT	76th District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	01	REP	Republican	517708	Sheridan	Jeff			1318			
+2016-08-02	08	07600	0	41	KENT	76th District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	02	DEM	Democratic	516192	Brinks	Winnie			4389			N
+2016-08-02	08	07700	0	41	KENT	77th District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	01	REP	Republican	517355	Brann	Tommy			6752			N
+2016-08-02	08	07700	0	41	KENT	77th District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	01	REP	Republican	514587	Murin	Frank			756			
+2016-08-02	08	07700	0	41	KENT	77th District Representative in State Legislature 2 Year Term (1) Position Files In KENT County	02	DEM	Democratic	517654	Knight	Dana	J.		1792			N
+2016-08-02	08	07800	0	11	BERRIEN	78th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	515666	Pagel	Dave			4216			N
+2016-08-02	08	07800	0	11	BERRIEN	78th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517668	Hill	Dean	E.		1301			N
+2016-08-02	08	07800	0	14	CASS	78th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	515666	Pagel	Dave			1741			N
+2016-08-02	08	07800	0	14	CASS	78th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517668	Hill	Dean	E.		283			N
+2016-08-02	08	07900	0	11	BERRIEN	79th District Representative in State Legislature 2 Year Term (1) Position Files In BERRIEN County	01	REP	Republican	517386	Arnt	Ryan			2957			
+2016-08-02	08	07900	0	11	BERRIEN	79th District Representative in State Legislature 2 Year Term (1) Position Files In BERRIEN County	01	REP	Republican	517663	Brown	Mary	E.		490			
+2016-08-02	08	07900	0	11	BERRIEN	79th District Representative in State Legislature 2 Year Term (1) Position Files In BERRIEN County	01	REP	Republican	517623	LaSata	Kim			4856			N
+2016-08-02	08	07900	0	11	BERRIEN	79th District Representative in State Legislature 2 Year Term (1) Position Files In BERRIEN County	01	REP	Republican	517604	Rolling	Troy			899			
+2016-08-02	08	07900	0	11	BERRIEN	79th District Representative in State Legislature 2 Year Term (1) Position Files In BERRIEN County	02	DEM	Democratic	517465	Seats	Marletta			2465			N
+2016-08-02	08	08000	0	3	ALLEGAN	80th District Representative in State Legislature 2 Year Term (1) Position Files In ALLEGAN County	01	REP	Republican	517742	Nobel	Abigail			2521			
+2016-08-02	08	08000	0	3	ALLEGAN	80th District Representative in State Legislature 2 Year Term (1) Position Files In ALLEGAN County	01	REP	Republican	516401	Whiteford	Mary			7278			N
+2016-08-02	08	08000	0	3	ALLEGAN	80th District Representative in State Legislature 2 Year Term (1) Position Files In ALLEGAN County	02	DEM	Democratic	517796	Andrysiak	John			2047			N
+2016-08-02	08	08100	0	74	ST. CLAIR	81st District Representative in State Legislature 2 Year Term (1) Position Files In ST. CLAIR County	01	REP	Republican	515774	Lauwers	Dan			8623			N
+2016-08-02	08	08100	0	74	ST. CLAIR	81st District Representative in State Legislature 2 Year Term (1) Position Files In ST. CLAIR County	02	DEM	Democratic	517719	Sternberg	Stewart			2245			N
+2016-08-02	08	08200	0	44	LAPEER	82nd District Representative in State Legislature 2 Year Term (1) Position Files In LAPEER County	01	REP	Republican	517310	Howell	Gary			11215			N
+2016-08-02	08	08200	0	44	LAPEER	82nd District Representative in State Legislature 2 Year Term (1) Position Files In LAPEER County	02	DEM	Democratic	516491	Guerrero DeLuca	Margaret			1928			N
+2016-08-02	08	08300	0	74	ST. CLAIR	83rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517534	Faber	Justin	K.		738			
+2016-08-02	08	08300	0	74	ST. CLAIR	83rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517441	Hernandez	Shane			2376			N
+2016-08-02	08	08300	0	74	ST. CLAIR	83rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517356	Muxlow	Matt			1762			
+2016-08-02	08	08300	0	74	ST. CLAIR	83rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517821	Frank	Jim			1827			N
+2016-08-02	08	08300	0	76	SANILAC	83rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517534	Faber	Justin	K.		1788			
+2016-08-02	08	08300	0	76	SANILAC	83rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517441	Hernandez	Shane			2979			N
+2016-08-02	08	08300	0	76	SANILAC	83rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517356	Muxlow	Matt			1785			
+2016-08-02	08	08300	0	76	SANILAC	83rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517821	Frank	Jim			678			N
+2016-08-02	08	08400	0	32	HURON	84th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516202	Canfield	Edward	J.		4112			N
+2016-08-02	08	08400	0	32	HURON	84th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517507	Stadler	Chuck			135			
+2016-08-02	08	08400	0	32	HURON	84th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516582	Wencel	James	L.		430			N
+2016-08-02	08	08400	0	79	TUSCOLA	84th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516202	Canfield	Edward	J.		4490			N
+2016-08-02	08	08400	0	79	TUSCOLA	84th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517507	Stadler	Chuck			611			
+2016-08-02	08	08400	0	79	TUSCOLA	84th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516582	Wencel	James	L.		775			N
+2016-08-02	08	08500	0	73	SAGINAW	85th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517365	Aue	Hartmann	Frederick		119			
+2016-08-02	08	08500	0	73	SAGINAW	85th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517639	Cottrell	Robert			142			
+2016-08-02	08	08500	0	73	SAGINAW	85th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517233	Frederick	Ben			1168			N
+2016-08-02	08	08500	0	73	SAGINAW	85th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517495	Sode	George			34			
+2016-08-02	08	08500	0	73	SAGINAW	85th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517438	Horvath	John			349			
+2016-08-02	08	08500	0	73	SAGINAW	85th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517814	Karhoff	Anthony	David		203			N
+2016-08-02	08	08500	0	73	SAGINAW	85th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517709	Surprenant	Joyce			291			
+2016-08-02	08	08500	0	73	SAGINAW	85th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517707	Vincent	John	W.		111			
+2016-08-02	08	08500	0	78	SHIAWASSEE	85th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517365	Aue	Hartmann	Frederick		1968			
+2016-08-02	08	08500	0	78	SHIAWASSEE	85th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517639	Cottrell	Robert			564			
+2016-08-02	08	08500	0	78	SHIAWASSEE	85th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517233	Frederick	Ben			4522			N
+2016-08-02	08	08500	0	78	SHIAWASSEE	85th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517495	Sode	George			249			
+2016-08-02	08	08500	0	78	SHIAWASSEE	85th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517438	Horvath	John			762			
+2016-08-02	08	08500	0	78	SHIAWASSEE	85th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517814	Karhoff	Anthony	David		954			N
+2016-08-02	08	08500	0	78	SHIAWASSEE	85th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517709	Surprenant	Joyce			560			
+2016-08-02	08	08500	0	78	SHIAWASSEE	85th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517707	Vincent	John	W.		121			
+2016-08-02	08	08600	0	34	IONIA	86th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517379	Albert	Thomas	A.		807			N
+2016-08-02	08	08600	0	34	IONIA	86th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517315	Henry	Katherine			600			
+2016-08-02	08	08600	0	34	IONIA	86th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517413	Johnson	Jeffrey	W.		234			
+2016-08-02	08	08600	0	34	IONIA	86th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517628	Lower	Bartholomew	J.		494			
+2016-08-02	08	08600	0	34	IONIA	86th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517791	VanderWerff	Matthew			82			
+2016-08-02	08	08600	0	34	IONIA	86th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516506	Mason	Lynn			441			N
+2016-08-02	08	08600	0	41	KENT	86th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517379	Albert	Thomas	A.		2486			N
+2016-08-02	08	08600	0	41	KENT	86th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517315	Henry	Katherine			1842			
+2016-08-02	08	08600	0	41	KENT	86th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517413	Johnson	Jeffrey	W.		2691			
+2016-08-02	08	08600	0	41	KENT	86th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517628	Lower	Bartholomew	J.		267			
+2016-08-02	08	08600	0	41	KENT	86th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517791	VanderWerff	Matthew			962			
+2016-08-02	08	08600	0	41	KENT	86th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516506	Mason	Lynn			1716			N
+2016-08-02	08	08700	0	8	BARRY	87th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517408	Calley	Julie			8937			N
+2016-08-02	08	08700	0	8	BARRY	87th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517815	Anderson	Eric			770			N
+2016-08-02	08	08700	0	34	IONIA	87th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517408	Calley	Julie			3566			N
+2016-08-02	08	08700	0	34	IONIA	87th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517815	Anderson	Eric			639			N
+2016-08-02	08	08800	0	70	OTTAWA	88th District Representative in State Legislature 2 Year Term (1) Position Files In OTTAWA County	01	REP	Republican	515703	Victory	Roger			9898			N
+2016-08-02	08	08800	0	70	OTTAWA	88th District Representative in State Legislature 2 Year Term (1) Position Files In OTTAWA County	02	DEM	Democratic	517551	Nagy	Kim			1114			N
+2016-08-02	08	08900	0	70	OTTAWA	89th District Representative in State Legislature 2 Year Term (1) Position Files In OTTAWA County	01	REP	Republican	517797	Hall	Brandon	M.		872			
+2016-08-02	08	08900	0	70	OTTAWA	89th District Representative in State Legislature 2 Year Term (1) Position Files In OTTAWA County	01	REP	Republican	517347	Lilly	Jim			6720			N
+2016-08-02	08	08900	0	70	OTTAWA	89th District Representative in State Legislature 2 Year Term (1) Position Files In OTTAWA County	01	REP	Republican	517442	Stille-Mulligan	Tracy			3335			
+2016-08-02	08	08900	0	70	OTTAWA	89th District Representative in State Legislature 2 Year Term (1) Position Files In OTTAWA County	02	DEM	Democratic	517562	Meyer	Tim			2647			N
+2016-08-02	08	09000	0	70	OTTAWA	90th District Representative in State Legislature 2 Year Term (1) Position Files In OTTAWA County	01	REP	Republican	517798	Estrada	Orlando	J.		1666			
+2016-08-02	08	09000	0	70	OTTAWA	90th District Representative in State Legislature 2 Year Term (1) Position Files In OTTAWA County	01	REP	Republican	516516	Garcia	Daniela			8128			N
+2016-08-02	08	09000	0	70	OTTAWA	90th District Representative in State Legislature 2 Year Term (1) Position Files In OTTAWA County	02	DEM	Democratic	517780	Yedinak	Mary	M.		2363			N
+2016-08-02	08	09100	0	61	MUSKEGON	91st District Representative in State Legislature 2 Year Term (1) Position Files In MUSKEGON County	01	REP	Republican	513453	Hughes	Holly			4977			N
+2016-08-02	08	09100	0	61	MUSKEGON	91st District Representative in State Legislature 2 Year Term (1) Position Files In MUSKEGON County	02	DEM	Democratic	515660	Lamonte	Collene			7499			N
+2016-08-02	08	09200	0	61	MUSKEGON	92nd District Representative in State Legislature 2 Year Term (1) Position Files In MUSKEGON County	01	REP	Republican	517698	Davis	Marshall			1189			N
+2016-08-02	08	09200	0	61	MUSKEGON	92nd District Representative in State Legislature 2 Year Term (1) Position Files In MUSKEGON County	01	REP	Republican	517699	Eichorst	Gail			976			
+2016-08-02	08	09200	0	61	MUSKEGON	92nd District Representative in State Legislature 2 Year Term (1) Position Files In MUSKEGON County	02	DEM	Democratic	514505	Mullally	Sean			3972			
+2016-08-02	08	09200	0	61	MUSKEGON	92nd District Representative in State Legislature 2 Year Term (1) Position Files In MUSKEGON County	02	DEM	Democratic	517394	Sabo	Terry	J.		4120			N
+2016-08-02	08	09300	0	19	CLINTON	93rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	515536	Leonard	Tom			5947			N
+2016-08-02	08	09300	0	19	CLINTON	93rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517825	Truesdell	Charles			1613			
+2016-08-02	08	09300	0	19	CLINTON	93rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517818	Derke	Josh			2035			N
+2016-08-02	08	09300	0	29	GRATIOT	93rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	515536	Leonard	Tom			1568			N
+2016-08-02	08	09300	0	29	GRATIOT	93rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517825	Truesdell	Charles			414			
+2016-08-02	08	09300	0	29	GRATIOT	93rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517818	Derke	Josh			254			N
+2016-08-02	08	09400	0	73	SAGINAW	94th District Representative in State Legislature 2 Year Term (1) Position Files In SAGINAW County	01	REP	Republican	515613	Kelly	Tim			4056			N
+2016-08-02	08	09400	0	73	SAGINAW	94th District Representative in State Legislature 2 Year Term (1) Position Files In SAGINAW County	02	DEM	Democratic	517467	Seamon	Kevin	C.		5767			N
+2016-08-02	08	09500	0	73	SAGINAW	95th District Representative in State Legislature 2 Year Term (1) Position Files In SAGINAW County	01	REP	Republican	517713	Tanner	Dorothy			893			N
+2016-08-02	08	09500	0	73	SAGINAW	95th District Representative in State Legislature 2 Year Term (1) Position Files In SAGINAW County	02	DEM	Democratic	516765	Guerra	Vanessa			6476			N
+2016-08-02	08	09600	0	9	BAY	96th District Representative in State Legislature 2 Year Term (1) Position Files In BAY County (RECOUNT)	01	REP	Republican	517687	Scholl	David			1585		*	N
+2016-08-02	08	09600	0	9	BAY	96th District Representative in State Legislature 2 Year Term (1) Position Files In BAY County (RECOUNT)	02	DEM	Democratic	517341	DuFresne	Brian	J.		1751		*	
+2016-08-02	08	09600	0	9	BAY	96th District Representative in State Legislature 2 Year Term (1) Position Files In BAY County (RECOUNT)	02	DEM	Democratic	514465	Elder	Brian	K.		5974		*	N
+2016-08-02	08	09600	0	9	BAY	96th District Representative in State Legislature 2 Year Term (1) Position Files In BAY County (RECOUNT)	02	DEM	Democratic	517345	Tilley	Donald			5061		*	
+2016-08-02	08	09700	0	6	ARENAC	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517220	Gilmore	George			116			
+2016-08-02	08	09700	0	6	ARENAC	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517431	Johnson	Brian			70			
+2016-08-02	08	09700	0	6	ARENAC	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517326	Link	Jacob			567			
+2016-08-02	08	09700	0	6	ARENAC	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517558	Wentworth	Jason			418			N
+2016-08-02	08	09700	0	6	ARENAC	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517406	Winarski	Thomas	L.		70			
+2016-08-02	08	09700	0	6	ARENAC	97th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517671	Corbett	Robert	C.		297			
+2016-08-02	08	09700	0	6	ARENAC	97th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517578	Townsend	Robert			399			N
+2016-08-02	08	09700	0	18	CLARE	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517220	Gilmore	George			485			
+2016-08-02	08	09700	0	18	CLARE	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517431	Johnson	Brian			216			
+2016-08-02	08	09700	0	18	CLARE	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517326	Link	Jacob			438			
+2016-08-02	08	09700	0	18	CLARE	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517558	Wentworth	Jason			1501			N
+2016-08-02	08	09700	0	18	CLARE	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517406	Winarski	Thomas	L.		288			
+2016-08-02	08	09700	0	18	CLARE	97th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517671	Corbett	Robert	C.		328			
+2016-08-02	08	09700	0	18	CLARE	97th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517578	Townsend	Robert			583			N
+2016-08-02	08	09700	0	26	GLADWIN	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517220	Gilmore	George			173			
+2016-08-02	08	09700	0	26	GLADWIN	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517431	Johnson	Brian			119			
+2016-08-02	08	09700	0	26	GLADWIN	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517326	Link	Jacob			505			
+2016-08-02	08	09700	0	26	GLADWIN	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517558	Wentworth	Jason			815			N
+2016-08-02	08	09700	0	26	GLADWIN	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517406	Winarski	Thomas	L.		613			
+2016-08-02	08	09700	0	26	GLADWIN	97th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517671	Corbett	Robert	C.		474			
+2016-08-02	08	09700	0	26	GLADWIN	97th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517578	Townsend	Robert			642			N
+2016-08-02	08	09700	0	67	OSCEOLA	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517220	Gilmore	George			227			
+2016-08-02	08	09700	0	67	OSCEOLA	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517431	Johnson	Brian			210			
+2016-08-02	08	09700	0	67	OSCEOLA	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517326	Link	Jacob			397			
+2016-08-02	08	09700	0	67	OSCEOLA	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517558	Wentworth	Jason			632			N
+2016-08-02	08	09700	0	67	OSCEOLA	97th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517406	Winarski	Thomas	L.		88			
+2016-08-02	08	09700	0	67	OSCEOLA	97th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517671	Corbett	Robert	C.		61			
+2016-08-02	08	09700	0	67	OSCEOLA	97th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517578	Townsend	Robert			105			N
+2016-08-02	08	09800	0	9	BAY	98th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516408	Glenn	Gary			553			N
+2016-08-02	08	09800	0	9	BAY	98th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517348	Malicoat	Geoff			1762			N
+2016-08-02	08	09800	0	56	MIDLAND	98th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516408	Glenn	Gary			2590			N
+2016-08-02	08	09800	0	56	MIDLAND	98th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517348	Malicoat	Geoff			1548			N
+2016-08-02	08	09900	0	37	ISABELLA	99th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517436	Hauck	Roger			2624			N
+2016-08-02	08	09900	0	37	ISABELLA	99th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517685	Stressman	Robin			1536			
+2016-08-02	08	09900	0	37	ISABELLA	99th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516538	Mielke	Bryan			1560			N
+2016-08-02	08	09900	0	56	MIDLAND	99th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517436	Hauck	Roger			948			N
+2016-08-02	08	09900	0	56	MIDLAND	99th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517685	Stressman	Robin			388			
+2016-08-02	08	09900	0	56	MIDLAND	99th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516538	Mielke	Bryan			462			N
+2016-08-02	08	10000	0	43	LAKE	100th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517828	Eley	Dan			115			
+2016-08-02	08	10000	0	43	LAKE	100th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517265	VanSingel	Scott	A.		478			N
+2016-08-02	08	10000	0	43	LAKE	100th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517360	Wilterink	John			91			
+2016-08-02	08	10000	0	43	LAKE	100th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517747	Clarke	Sandy			969			N
+2016-08-02	08	10000	0	43	LAKE	100th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517681	Forbes	Cathy			416			
+2016-08-02	08	10000	0	62	NEWAYGO	100th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517828	Eley	Dan			457			
+2016-08-02	08	10000	0	62	NEWAYGO	100th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517265	VanSingel	Scott	A.		5827			N
+2016-08-02	08	10000	0	62	NEWAYGO	100th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517360	Wilterink	John			1354			
+2016-08-02	08	10000	0	62	NEWAYGO	100th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517747	Clarke	Sandy			452			N
+2016-08-02	08	10000	0	62	NEWAYGO	100th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517681	Forbes	Cathy			422			
+2016-08-02	08	10000	0	64	OCEANA	100th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517828	Eley	Dan			433			
+2016-08-02	08	10000	0	64	OCEANA	100th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517265	VanSingel	Scott	A.		3222			N
+2016-08-02	08	10000	0	64	OCEANA	100th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517360	Wilterink	John			472			
+2016-08-02	08	10000	0	64	OCEANA	100th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517747	Clarke	Sandy			181			N
+2016-08-02	08	10000	0	64	OCEANA	100th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517681	Forbes	Cathy			276			
+2016-08-02	08	10100	0	10	BENZIE	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517664	Urka	Cary			333			
+2016-08-02	08	10100	0	10	BENZIE	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517417	VanderWall	Curt			919			N
+2016-08-02	08	10100	0	10	BENZIE	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517487	Walter	Mark			905			
+2016-08-02	08	10100	0	10	BENZIE	101st District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517320	Scripps	Dan			947			N
+2016-08-02	08	10100	0	45	LEELANAU	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517664	Urka	Cary			230			
+2016-08-02	08	10100	0	45	LEELANAU	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517417	VanderWall	Curt			1466			N
+2016-08-02	08	10100	0	45	LEELANAU	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517487	Walter	Mark			1517			
+2016-08-02	08	10100	0	45	LEELANAU	101st District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517320	Scripps	Dan			1963			N
+2016-08-02	08	10100	0	51	MANISTEE	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517664	Urka	Cary			861			
+2016-08-02	08	10100	0	51	MANISTEE	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517417	VanderWall	Curt			1658			N
+2016-08-02	08	10100	0	51	MANISTEE	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517487	Walter	Mark			579			
+2016-08-02	08	10100	0	51	MANISTEE	101st District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517320	Scripps	Dan			1634			N
+2016-08-02	08	10100	0	53	MASON	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517664	Urka	Cary			302			
+2016-08-02	08	10100	0	53	MASON	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517417	VanderWall	Curt			3057			N
+2016-08-02	08	10100	0	53	MASON	101st District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517487	Walter	Mark			294			
+2016-08-02	08	10100	0	53	MASON	101st District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517320	Scripps	Dan			696			N
+2016-08-02	08	10200	0	54	MECOSTA	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517511	Briscoe	Jason			992			
+2016-08-02	08	10200	0	54	MECOSTA	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517242	Hoitenga	Michele			910			N
+2016-08-02	08	10200	0	54	MECOSTA	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517392	Hook	Ormand			1328			
+2016-08-02	08	10200	0	54	MECOSTA	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	511898	Langworthy, Jr.	Morris			752			
+2016-08-02	08	10200	0	54	MECOSTA	102nd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517655	Gabert	Douglas			780			N
+2016-08-02	08	10200	0	67	OSCEOLA	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517511	Briscoe	Jason			216			
+2016-08-02	08	10200	0	67	OSCEOLA	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517242	Hoitenga	Michele			222			N
+2016-08-02	08	10200	0	67	OSCEOLA	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517392	Hook	Ormand			319			
+2016-08-02	08	10200	0	67	OSCEOLA	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	511898	Langworthy, Jr.	Morris			704			
+2016-08-02	08	10200	0	67	OSCEOLA	102nd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517655	Gabert	Douglas			183			N
+2016-08-02	08	10200	0	83	WEXFORD	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517511	Briscoe	Jason			902			
+2016-08-02	08	10200	0	83	WEXFORD	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517242	Hoitenga	Michele			2734			N
+2016-08-02	08	10200	0	83	WEXFORD	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517392	Hook	Ormand			565			
+2016-08-02	08	10200	0	83	WEXFORD	102nd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	511898	Langworthy, Jr.	Morris			1687			
+2016-08-02	08	10200	0	83	WEXFORD	102nd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517655	Gabert	Douglas			417			N
+2016-08-02	08	10300	0	20	CRAWFORD	103rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517229	Kumar	Vijay			477			
+2016-08-02	08	10300	0	20	CRAWFORD	103rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517368	Rendon	Daire	L.		1540			N
+2016-08-02	08	10300	0	20	CRAWFORD	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517276	Pillinger Daniels	Robyn			55			
+2016-08-02	08	10300	0	20	CRAWFORD	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517605	Richards	Brad			54			
+2016-08-02	08	10300	0	20	CRAWFORD	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516597	Schaiberger	Tim			33			
+2016-08-02	08	10300	0	20	CRAWFORD	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517359	Stancil	Jordan			632			N
+2016-08-02	08	10300	0	40	KALKASKA	103rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517229	Kumar	Vijay			613			
+2016-08-02	08	10300	0	40	KALKASKA	103rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517368	Rendon	Daire	L.		1694			N
+2016-08-02	08	10300	0	40	KALKASKA	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517276	Pillinger Daniels	Robyn			204			
+2016-08-02	08	10300	0	40	KALKASKA	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517605	Richards	Brad			145			
+2016-08-02	08	10300	0	40	KALKASKA	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516597	Schaiberger	Tim			56			
+2016-08-02	08	10300	0	40	KALKASKA	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517359	Stancil	Jordan			255			N
+2016-08-02	08	10300	0	57	MISSAUKEE	103rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517229	Kumar	Vijay			424			
+2016-08-02	08	10300	0	57	MISSAUKEE	103rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517368	Rendon	Daire	L.		1957			N
+2016-08-02	08	10300	0	57	MISSAUKEE	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517276	Pillinger Daniels	Robyn			71			
+2016-08-02	08	10300	0	57	MISSAUKEE	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517605	Richards	Brad			67			
+2016-08-02	08	10300	0	57	MISSAUKEE	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516597	Schaiberger	Tim			49			
+2016-08-02	08	10300	0	57	MISSAUKEE	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517359	Stancil	Jordan			134			N
+2016-08-02	08	10300	0	65	OGEMAW	103rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517229	Kumar	Vijay			451			
+2016-08-02	08	10300	0	65	OGEMAW	103rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517368	Rendon	Daire	L.		2787			N
+2016-08-02	08	10300	0	65	OGEMAW	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517276	Pillinger Daniels	Robyn			205			
+2016-08-02	08	10300	0	65	OGEMAW	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517605	Richards	Brad			193			
+2016-08-02	08	10300	0	65	OGEMAW	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516597	Schaiberger	Tim			636			
+2016-08-02	08	10300	0	65	OGEMAW	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517359	Stancil	Jordan			582			N
+2016-08-02	08	10300	0	72	ROSCOMMON	103rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517229	Kumar	Vijay			672			
+2016-08-02	08	10300	0	72	ROSCOMMON	103rd District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517368	Rendon	Daire	L.		3447			N
+2016-08-02	08	10300	0	72	ROSCOMMON	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517276	Pillinger Daniels	Robyn			366			
+2016-08-02	08	10300	0	72	ROSCOMMON	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517605	Richards	Brad			254			
+2016-08-02	08	10300	0	72	ROSCOMMON	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516597	Schaiberger	Tim			232			
+2016-08-02	08	10300	0	72	ROSCOMMON	103rd District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517359	Stancil	Jordan			498			N
+2016-08-02	08	10400	0	28	GD. TRAVERSE	104th District Representative in State Legislature 2 Year Term (1) Position Files In GD. TRAVERSE County	01	REP	Republican	515978	Gillman	Jason			5139			
+2016-08-02	08	10400	0	28	GD. TRAVERSE	104th District Representative in State Legislature 2 Year Term (1) Position Files In GD. TRAVERSE County	01	REP	Republican	516451	Inman	Larry	C.		7410			N
+2016-08-02	08	10400	0	28	GD. TRAVERSE	104th District Representative in State Legislature 2 Year Term (1) Position Files In GD. TRAVERSE County	02	DEM	Democratic	516116	Coffia	Betsy			3584			N
+2016-08-02	08	10400	0	28	GD. TRAVERSE	104th District Representative in State Legislature 2 Year Term (1) Position Files In GD. TRAVERSE County	02	DEM	Democratic	517736	Crandall	Megan			918			
+2016-08-02	08	10500	0	5	ANTRIM	105th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	514498	Cole	Triston	S.		3604			N
+2016-08-02	08	10500	0	5	ANTRIM	105th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517738	Knight	Wyatt			878			N
+2016-08-02	08	10500	0	15	CHARLEVOIX	105th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	514498	Cole	Triston	S.		2810			N
+2016-08-02	08	10500	0	15	CHARLEVOIX	105th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517738	Knight	Wyatt			897			N
+2016-08-02	08	10500	0	60	MONTMORENCY	105th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	514498	Cole	Triston	S.		1592			N
+2016-08-02	08	10500	0	60	MONTMORENCY	105th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517738	Knight	Wyatt			267			N
+2016-08-02	08	10500	0	68	OSCODA	105th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	514498	Cole	Triston	S.		1495			N
+2016-08-02	08	10500	0	68	OSCODA	105th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517738	Knight	Wyatt			216			N
+2016-08-02	08	10500	0	69	OTSEGO	105th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	514498	Cole	Triston	S.		3357			N
+2016-08-02	08	10500	0	69	OTSEGO	105th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517738	Knight	Wyatt			667			N
+2016-08-02	08	10600	0	1	ALCONA	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517411	Allor	Sue			524			N
+2016-08-02	08	10600	0	1	ALCONA	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517387	Chandler	David	Ladd		192			
+2016-08-02	08	10600	0	1	ALCONA	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517346	Krawczak	Jackie			544			
+2016-08-02	08	10600	0	1	ALCONA	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517357	Osmer	Jesse			218			
+2016-08-02	08	10600	0	1	ALCONA	106th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516507	Kennedy	Robert			582			N
+2016-08-02	08	10600	0	1	ALCONA	106th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517423	Kieliszewski	Erin			159			
+2016-08-02	08	10600	0	4	ALPENA	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517411	Allor	Sue			478			N
+2016-08-02	08	10600	0	4	ALPENA	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517387	Chandler	David	Ladd		129			
+2016-08-02	08	10600	0	4	ALPENA	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517346	Krawczak	Jackie			1583			
+2016-08-02	08	10600	0	4	ALPENA	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517357	Osmer	Jesse			791			
+2016-08-02	08	10600	0	4	ALPENA	106th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516507	Kennedy	Robert			651			N
+2016-08-02	08	10600	0	4	ALPENA	106th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517423	Kieliszewski	Erin			1488			
+2016-08-02	08	10600	0	16	CHEBOYGAN	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517411	Allor	Sue			1461			N
+2016-08-02	08	10600	0	16	CHEBOYGAN	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517387	Chandler	David	Ladd		194			
+2016-08-02	08	10600	0	16	CHEBOYGAN	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517346	Krawczak	Jackie			229			
+2016-08-02	08	10600	0	16	CHEBOYGAN	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517357	Osmer	Jesse			172			
+2016-08-02	08	10600	0	16	CHEBOYGAN	106th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516507	Kennedy	Robert			378			N
+2016-08-02	08	10600	0	16	CHEBOYGAN	106th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517423	Kieliszewski	Erin			316			
+2016-08-02	08	10600	0	35	IOSCO	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517411	Allor	Sue			926			N
+2016-08-02	08	10600	0	35	IOSCO	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517387	Chandler	David	Ladd		563			
+2016-08-02	08	10600	0	35	IOSCO	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517346	Krawczak	Jackie			441			
+2016-08-02	08	10600	0	35	IOSCO	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517357	Osmer	Jesse			332			
+2016-08-02	08	10600	0	35	IOSCO	106th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516507	Kennedy	Robert			1249			N
+2016-08-02	08	10600	0	35	IOSCO	106th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517423	Kieliszewski	Erin			711			
+2016-08-02	08	10600	0	71	PRESQUE ISLE	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517411	Allor	Sue			799			N
+2016-08-02	08	10600	0	71	PRESQUE ISLE	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517387	Chandler	David	Ladd		174			
+2016-08-02	08	10600	0	71	PRESQUE ISLE	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517346	Krawczak	Jackie			1177			
+2016-08-02	08	10600	0	71	PRESQUE ISLE	106th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517357	Osmer	Jesse			405			
+2016-08-02	08	10600	0	71	PRESQUE ISLE	106th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	516507	Kennedy	Robert			438			N
+2016-08-02	08	10600	0	71	PRESQUE ISLE	106th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517423	Kieliszewski	Erin			427			
+2016-08-02	08	10700	0	16	CHEBOYGAN	107th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516623	Chatfield	Lee			1348			N
+2016-08-02	08	10700	0	16	CHEBOYGAN	107th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517684	Twardy	Kathy			318			
+2016-08-02	08	10700	0	16	CHEBOYGAN	107th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517820	Bellfy	Phil			302			N
+2016-08-02	08	10700	0	17	CHIPPEWA	107th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516623	Chatfield	Lee			2629			N
+2016-08-02	08	10700	0	17	CHIPPEWA	107th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517684	Twardy	Kathy			1313			
+2016-08-02	08	10700	0	17	CHIPPEWA	107th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517820	Bellfy	Phil			1069			N
+2016-08-02	08	10700	0	24	EMMET	107th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516623	Chatfield	Lee			3986			N
+2016-08-02	08	10700	0	24	EMMET	107th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517684	Twardy	Kathy			1379			
+2016-08-02	08	10700	0	24	EMMET	107th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517820	Bellfy	Phil			1127			N
+2016-08-02	08	10700	0	49	MACKINAC	107th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516623	Chatfield	Lee			1653			N
+2016-08-02	08	10700	0	49	MACKINAC	107th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517684	Twardy	Kathy			588			
+2016-08-02	08	10700	0	49	MACKINAC	107th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517820	Bellfy	Phil			516			N
+2016-08-02	08	10800	0	21	DELTA	108th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517566	Arcand	Alan			954			
+2016-08-02	08	10800	0	21	DELTA	108th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517563	LaFave	Beau	Matthew		1763			N
+2016-08-02	08	10800	0	21	DELTA	108th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517432	Shann	Darryl			1578			
+2016-08-02	08	10800	0	21	DELTA	108th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517296	Celello	Scott	A.		1264			N
+2016-08-02	08	10800	0	21	DELTA	108th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517457	Dziedzic	Dana			1377			
+2016-08-02	08	10800	0	22	DICKINSON	108th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517566	Arcand	Alan			1593			
+2016-08-02	08	10800	0	22	DICKINSON	108th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517563	LaFave	Beau	Matthew		1478			N
+2016-08-02	08	10800	0	22	DICKINSON	108th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517432	Shann	Darryl			361			
+2016-08-02	08	10800	0	22	DICKINSON	108th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517296	Celello	Scott	A.		1729			N
+2016-08-02	08	10800	0	22	DICKINSON	108th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517457	Dziedzic	Dana			268			
+2016-08-02	08	10800	0	55	MENOMINEE	108th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517566	Arcand	Alan			362			
+2016-08-02	08	10800	0	55	MENOMINEE	108th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517563	LaFave	Beau	Matthew		814			N
+2016-08-02	08	10800	0	55	MENOMINEE	108th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517432	Shann	Darryl			319			
+2016-08-02	08	10800	0	55	MENOMINEE	108th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517296	Celello	Scott	A.		351			N
+2016-08-02	08	10800	0	55	MENOMINEE	108th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517457	Dziedzic	Dana			770			
+2016-08-02	08	10900	0	2	ALGER	109th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517749	Pfister	Kevin	W.		398			N
+2016-08-02	08	10900	0	2	ALGER	109th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517822	Wagner Patterson	Melody	Joy		312			
+2016-08-02	08	10900	0	2	ALGER	109th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517748	Cambensy	Sara			269			
+2016-08-02	08	10900	0	2	ALGER	109th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515609	Kivela	John			546			N
+2016-08-02	08	10900	0	48	LUCE	109th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517749	Pfister	Kevin	W.		351			N
+2016-08-02	08	10900	0	48	LUCE	109th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517822	Wagner Patterson	Melody	Joy		320			
+2016-08-02	08	10900	0	48	LUCE	109th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517748	Cambensy	Sara			65			
+2016-08-02	08	10900	0	48	LUCE	109th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515609	Kivela	John			129			N
+2016-08-02	08	10900	0	52	MARQUETTE	109th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517749	Pfister	Kevin	W.		1375			N
+2016-08-02	08	10900	0	52	MARQUETTE	109th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517822	Wagner Patterson	Melody	Joy		991			
+2016-08-02	08	10900	0	52	MARQUETTE	109th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517748	Cambensy	Sara			3568			
+2016-08-02	08	10900	0	52	MARQUETTE	109th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515609	Kivela	John			6029			N
+2016-08-02	08	10900	0	77	SCHOOLCRAFT	109th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517749	Pfister	Kevin	W.		476			N
+2016-08-02	08	10900	0	77	SCHOOLCRAFT	109th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517822	Wagner Patterson	Melody	Joy		259			
+2016-08-02	08	10900	0	77	SCHOOLCRAFT	109th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	517748	Cambensy	Sara			193			
+2016-08-02	08	10900	0	77	SCHOOLCRAFT	109th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515609	Kivela	John			464			N
+2016-08-02	08	11000	0	7	BARAGA	110th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517750	Markkanen	Gregory			597			N
+2016-08-02	08	11000	0	7	BARAGA	110th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515740	Dianda	Scott			348			N
+2016-08-02	08	11000	0	27	GOGEBIC	110th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517750	Markkanen	Gregory			513			N
+2016-08-02	08	11000	0	27	GOGEBIC	110th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515740	Dianda	Scott			1833			N
+2016-08-02	08	11000	0	31	HOUGHTON	110th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517750	Markkanen	Gregory			2166			N
+2016-08-02	08	11000	0	31	HOUGHTON	110th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515740	Dianda	Scott			2420			N
+2016-08-02	08	11000	0	36	IRON	110th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517750	Markkanen	Gregory			688			N
+2016-08-02	08	11000	0	36	IRON	110th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515740	Dianda	Scott			930			N
+2016-08-02	08	11000	0	42	KEWEENAW	110th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517750	Markkanen	Gregory			235			N
+2016-08-02	08	11000	0	42	KEWEENAW	110th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515740	Dianda	Scott			256			N
+2016-08-02	08	11000	0	52	MARQUETTE	110th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517750	Markkanen	Gregory			171			N
+2016-08-02	08	11000	0	52	MARQUETTE	110th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515740	Dianda	Scott			607			N
+2016-08-02	08	11000	0	66	ONTONAGON	110th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517750	Markkanen	Gregory			536			N
+2016-08-02	08	11000	0	66	ONTONAGON	110th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	515740	Dianda	Scott			637			N
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517644	Bryant-Weekes	E.	Lynise		15471			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517036	Coleman	Delicia	Taylor		15443			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517806	Coleman	Rebekah	R.		12209			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517397	Courtright	Felicia			22570			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517521	Cox	Melissa	Anne		38310			N
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517362	Evans	Matthew	M.		24782			N
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517823	Evans	Wanda	A.		46406			N
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517491	Ficano	Robert			25040			N
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517539	Green	Tracy	E.		23284			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517554	Hathaway	Thomas	John		44086			N
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517688	Humphries	James			15978			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517743	King	Kenneth	J.		22516			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517560	Letourneau-McAvoy	Michelle			17109			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	516809	Macdonald	Karyn	L.		17758			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517567	Morrow	Brian	L.		27465			N
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517399	Ramsey	Kelly	Ann		27154			N
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517398	Robinson	Isaac			20689			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517405	Robinson	Ron	D.		12498			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517484	Samuels	Suzette			22339			
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517424	Thomas	Regina			24332			N
+2016-08-02	15	00300	1	82	WAYNE	3rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (4) Positions	08	NPA	No  Affiliation	517416	Woodyard	Michael	Thomas		10342			
+2016-08-02	15	00800	0	34	IONIA	8th Circuit Judge of Circuit Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517807	Finegood	Ronald	L.		570			
+2016-08-02	15	00800	0	34	IONIA	8th Circuit Judge of Circuit Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517595	Schafer	Ronald	J.		4284			N
+2016-08-02	15	00800	0	34	IONIA	8th Circuit Judge of Circuit Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517659	Tissue-Daws	Monica	J.		1077			N
+2016-08-02	15	00800	0	59	MONTCALM	8th Circuit Judge of Circuit Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517807	Finegood	Ronald	L.		1331			
+2016-08-02	15	00800	0	59	MONTCALM	8th Circuit Judge of Circuit Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517595	Schafer	Ronald	J.		3917			N
+2016-08-02	15	00800	0	59	MONTCALM	8th Circuit Judge of Circuit Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517659	Tissue-Daws	Monica	J.		2405			N
+2016-08-02	15	01600	1	50	MACOMB	16th Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	517799	Dennings	Teri	Lynn		21721			N
+2016-08-02	15	01600	1	50	MACOMB	16th Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	517464	Rancilio	Racheal			39603			N
+2016-08-02	15	01600	1	50	MACOMB	16th Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	517493	Servitto	Michael	E.		56460			N
+2016-08-02	15	01600	1	50	MACOMB	16th Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	517546	Velardo	Armand			12128			N
+2016-08-02	15	01600	1	50	MACOMB	16th Circuit Judge of Circuit Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	517579	deBaptiste-Follis	Beth			10555			
+2016-08-02	15	01700	1	41	KENT	17th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517833	Benson	Curt			18935			N
+2016-08-02	15	01700	1	41	KENT	17th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517702	Murray, Jr.	Thomas	P.		12147			
+2016-08-02	15	01700	1	41	KENT	17th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517488	Rossi	Joe			16974			N
+2016-08-02	15	02000	1	70	OTTAWA	20th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517660	Martin	Dan			7934			N
+2016-08-02	15	02000	1	70	OTTAWA	20th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517576	Miedema	Karen	Jongekrijg		10808			N
+2016-08-02	15	02000	1	70	OTTAWA	20th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517526	Mol	Robert	L.		4403			
+2016-08-02	15	02000	1	70	OTTAWA	20th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517435	Siver	Thomas	Daniel		4661			
+2016-08-02	15	02000	1	70	OTTAWA	20th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517582	Wirth	Chris			6017			
+2016-08-02	15	02300	1	1	ALCONA	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517583	Moir	Keith	E.		300			
+2016-08-02	15	02300	1	1	ALCONA	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517651	Palumbo	Nichol	J.		749			N
+2016-08-02	15	02300	1	1	ALCONA	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517722	Riffel	David	C.		904			N
+2016-08-02	15	02300	1	6	ARENAC	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517583	Moir	Keith	E.		290			
+2016-08-02	15	02300	1	6	ARENAC	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517651	Palumbo	Nichol	J.		712			N
+2016-08-02	15	02300	1	6	ARENAC	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517722	Riffel	David	C.		675			N
+2016-08-02	15	02300	1	35	IOSCO	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517583	Moir	Keith	E.		717			
+2016-08-02	15	02300	1	35	IOSCO	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517651	Palumbo	Nichol	J.		2276			N
+2016-08-02	15	02300	1	35	IOSCO	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517722	Riffel	David	C.		1657			N
+2016-08-02	15	02300	1	68	OSCODA	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517583	Moir	Keith	E.		387			
+2016-08-02	15	02300	1	68	OSCODA	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517651	Palumbo	Nichol	J.		626			N
+2016-08-02	15	02300	1	68	OSCODA	23rd Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517722	Riffel	David	C.		633			N
+2016-08-02	15	03700	1	13	CALHOUN	37th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517770	Ambrose	Kate			1962			
+2016-08-02	15	03700	1	13	CALHOUN	37th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	516995	Dyer	James	L.		1226			
+2016-08-02	15	03700	1	13	CALHOUN	37th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517573	Sims	John	M.		3459			N
+2016-08-02	15	03700	1	13	CALHOUN	37th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517618	Yost	Tina			4128			N
+2016-08-02	15	03900	2	46	LENAWEE	39th Circuit Judge of Circuit Court Incumbent - Partial Term Ending 01/01/2019 (1) Position	08	NPA	No  Affiliation	517446	Anzalone	Anna	Marie		5105			N
+2016-08-02	15	03900	2	46	LENAWEE	39th Circuit Judge of Circuit Court Incumbent - Partial Term Ending 01/01/2019 (1) Position	08	NPA	No  Affiliation	517633	Sala	Stanley	M.		2054			
+2016-08-02	15	03900	2	46	LENAWEE	39th Circuit Judge of Circuit Court Incumbent - Partial Term Ending 01/01/2019 (1) Position	08	NPA	No  Affiliation	517718	Schaedler	Phillip			2269			N
+2016-08-02	15	04600	1	20	CRAWFORD	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517555	Edwards	Michael	T.		289			
+2016-08-02	15	04600	1	20	CRAWFORD	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517634	Hesselink	Kevin	L.		343			N
+2016-08-02	15	04600	1	20	CRAWFORD	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517580	Hunter	Colin	G.		1238			N
+2016-08-02	15	04600	1	20	CRAWFORD	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517492	Thompson	Jason			888			
+2016-08-02	15	04600	1	40	KALKASKA	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517555	Edwards	Michael	T.		549			
+2016-08-02	15	04600	1	40	KALKASKA	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517634	Hesselink	Kevin	L.		655			N
+2016-08-02	15	04600	1	40	KALKASKA	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517580	Hunter	Colin	G.		507			N
+2016-08-02	15	04600	1	40	KALKASKA	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517492	Thompson	Jason			621			
+2016-08-02	15	04600	1	69	OTSEGO	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517555	Edwards	Michael	T.		1403			
+2016-08-02	15	04600	1	69	OTSEGO	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517634	Hesselink	Kevin	L.		1676			N
+2016-08-02	15	04600	1	69	OTSEGO	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517580	Hunter	Colin	G.		747			N
+2016-08-02	15	04600	1	69	OTSEGO	46th Circuit Judge of Circuit Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517492	Thompson	Jason			581			
+2016-08-02	16	00700	1	80	VAN BUREN	7th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517787	Dunfield Hameed	Nichole			627			
+2016-08-02	16	00700	1	80	VAN BUREN	7th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517617	Martinez	Cirilo			3614			N
+2016-08-02	16	00700	1	80	VAN BUREN	7th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517461	McKay	Michael			5095			N
+2016-08-02	16	01900	1	82	WAYNE	19th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517419	Bazzi	Abbie			2688			
+2016-08-02	16	01900	1	82	WAYNE	19th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517516	Dabaja	Susan	A.		4172			N
+2016-08-02	16	01900	1	82	WAYNE	19th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517609	Hunt	Gene			6865			N
+2016-08-02	16	03600	1	82	WAYNE	36th District Judge of District Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	515940	Blount	Christopher	M.		21307			N
+2016-08-02	16	03600	1	82	WAYNE	36th District Judge of District Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	517763	Bowers, Jr.	Richard	J.		11435			N
+2016-08-02	16	03600	1	82	WAYNE	36th District Judge of District Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	517824	Davis	Kahlilia	Yvette		12487			N
+2016-08-02	16	03600	1	82	WAYNE	36th District Judge of District Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	517620	Jones	Kenyetta	Stanford		24395			N
+2016-08-02	16	03600	1	82	WAYNE	36th District Judge of District Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	517643	Longstreet	Kristine			9648			
+2016-08-02	16	03600	1	82	WAYNE	36th District Judge of District Court Non-Incumbent 6 Year Terms (2) Positions	08	NPA	No  Affiliation	517610	Sherman	Millicent			7765			
+2016-08-02	16	04600	0	63	OAKLAND	46th District Judge of District Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517501	Arvant	Cynthia	M.		5315			N
+2016-08-02	16	04600	0	63	OAKLAND	46th District Judge of District Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517536	Dean	Dorothy			983			
+2016-08-02	16	04600	0	63	OAKLAND	46th District Judge of District Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517535	Gant	Kameshia	D.		3044			N
+2016-08-02	16	04600	0	63	OAKLAND	46th District Judge of District Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517809	Herschfus	Marc	S.		542			
+2016-08-02	16	04600	0	63	OAKLAND	46th District Judge of District Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517430	Jajonie-Daman	Eman	H.		1578			
+2016-08-02	16	04600	0	63	OAKLAND	46th District Judge of District Court Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517734	Scarber	Devlin	K.		1868			
+2016-08-02	16	05100	5	63	OAKLAND	51st District Judge of District Court Non-Incumbent - Partial Term Ending 01/01/2019 (1) Position	08	NPA	No  Affiliation	517793	Dean	Andrea			2461			
+2016-08-02	16	05100	5	63	OAKLAND	51st District Judge of District Court Non-Incumbent - Partial Term Ending 01/01/2019 (1) Position	08	NPA	No  Affiliation	517836	Fox	Todd			2840			N
+2016-08-02	16	05100	5	63	OAKLAND	51st District Judge of District Court Non-Incumbent - Partial Term Ending 01/01/2019 (1) Position	08	NPA	No  Affiliation	517593	Mara	Mary			2818			N
+2016-08-02	16	05800	1	3	ALLEGAN	58th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517512	Helder	Vernon	D.		412			N
+2016-08-02	16	05800	1	3	ALLEGAN	58th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517459	Jenison	Craig	A.		112			
+2016-08-02	16	05800	1	3	ALLEGAN	58th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517594	Mulder	Judy	K.		398			N
+2016-08-02	16	05800	1	70	OTTAWA	58th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517512	Helder	Vernon	D.		13125			N
+2016-08-02	16	05800	1	70	OTTAWA	58th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517459	Jenison	Craig	A.		8459			
+2016-08-02	16	05800	1	70	OTTAWA	58th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517594	Mulder	Judy	K.		12170			N
+2016-08-02	16	06000	1	61	MUSKEGON	60th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517393	EldenBrady	Joshua	Stewart		1281			
+2016-08-02	16	06000	1	61	MUSKEGON	60th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517689	Mathes	Paula	Baker		6366			N
+2016-08-02	16	06000	1	61	MUSKEGON	60th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517603	Nolan	Geoffrey	T.		11501			N
+2016-08-02	16	06000	1	61	MUSKEGON	60th District Judge of District Court Non-Incumbent 6 Year Term (1) Position	08	NPA	No  Affiliation	517837	Swanson	Al			3468			
+2016-08-02	17	06100	1	61	MUSKEGON	MUSKEGON Judge of Probate Court Non-Incumbent 6 Year Term (1) Position Files With County	08	NPA	No  Affiliation	517795	Bush	Joseph	S.		5161			N
+2016-08-02	17	06100	1	61	MUSKEGON	MUSKEGON Judge of Probate Court Non-Incumbent 6 Year Term (1) Position Files With County	08	NPA	No  Affiliation	517581	Grimm	Eric	C.		2704			
+2016-08-02	17	06100	1	61	MUSKEGON	MUSKEGON Judge of Probate Court Non-Incumbent 6 Year Term (1) Position Files With County	08	NPA	No  Affiliation	517808	Kortering	David	B.		4002			
+2016-08-02	17	06100	1	61	MUSKEGON	MUSKEGON Judge of Probate Court Non-Incumbent 6 Year Term (1) Position Files With County	08	NPA	No  Affiliation	517714	McNeill	Jenny	L.		5055			
+2016-08-02	17	06100	1	61	MUSKEGON	MUSKEGON Judge of Probate Court Non-Incumbent 6 Year Term (1) Position Files With County	08	NPA	No  Affiliation	517649	Sprader	Brenda	E.		6043			N
+RECORDS: 1085	RESULTS: OFFICIAL	RUNDATE: 11/07/2016	RUNTIME: 16:03:01
