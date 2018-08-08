@@ -1,9 +1,4 @@
----
-title: "Michigan Election Data"
-output: 
-  html_document:
-    keep_md: TRUE
----
+# Michigan Election Data
 
 Election data comes from the [MI SOS](https://www.michigan.gov/sos/0,4670,7-127-1633_8722---,00.html) website.  
 
