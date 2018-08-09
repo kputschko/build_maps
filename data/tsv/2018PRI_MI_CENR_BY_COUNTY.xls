@@ -260,14 +260,14 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	02	00000	0	29	GRATIOT	Governor 4 Year Term (1) Position	02	DEM	Democratic	518014	Whitmer	Gretchen			1516			
 2018-08-07	02	00000	0	29	GRATIOT	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518191	Gelineau	Bill			5			
 2018-08-07	02	00000	0	29	GRATIOT	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518241	Tatar	John	J.		16			
-2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	01	REP	Republican	518354	Calley	Brian			1052			
-2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	01	REP	Republican	518147	Colbeck	Patrick			800			
-2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	01	REP	Republican	517508	Hines	Jim			846			
-2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	01	REP	Republican	518265	Schuette	Bill			2467			
-2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518037	El-Sayed	Abdul			362			
-2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518101	Thanedar	Shri			614			
-2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518014	Whitmer	Gretchen			1111			
-2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518191	Gelineau	Bill			15			
+2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	01	REP	Republican	518354	Calley	Brian			1105			
+2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	01	REP	Republican	518147	Colbeck	Patrick			849			
+2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	01	REP	Republican	517508	Hines	Jim			890			
+2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	01	REP	Republican	518265	Schuette	Bill			2595			
+2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518037	El-Sayed	Abdul			395			
+2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518101	Thanedar	Shri			654			
+2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518014	Whitmer	Gretchen			1191			
+2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518191	Gelineau	Bill			16			
 2018-08-07	02	00000	0	30	HILLSDALE	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518241	Tatar	John	J.		15			
 2018-08-07	02	00000	0	31	HOUGHTON	Governor 4 Year Term (1) Position	01	REP	Republican	518354	Calley	Brian			431			
 2018-08-07	02	00000	0	31	HOUGHTON	Governor 4 Year Term (1) Position	01	REP	Republican	518147	Colbeck	Patrick			612			
@@ -728,15 +728,15 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	02	00000	0	81	WASHTENAW	Governor 4 Year Term (1) Position	02	DEM	Democratic	518014	Whitmer	Gretchen			33316			
 2018-08-07	02	00000	0	81	WASHTENAW	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518191	Gelineau	Bill			163			
 2018-08-07	02	00000	0	81	WASHTENAW	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518241	Tatar	John	J.		98			
-2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	01	REP	Republican	518354	Calley	Brian			0			
-2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	01	REP	Republican	518147	Colbeck	Patrick			0			
-2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	01	REP	Republican	517508	Hines	Jim			0			
-2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	01	REP	Republican	518265	Schuette	Bill			0			
-2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518037	El-Sayed	Abdul			0			
-2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518101	Thanedar	Shri			0			
-2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518014	Whitmer	Gretchen			0			
-2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518191	Gelineau	Bill			0			
-2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518241	Tatar	John	J.		0			
+2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	01	REP	Republican	518354	Calley	Brian			20955			
+2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	01	REP	Republican	518147	Colbeck	Patrick			18687			
+2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	01	REP	Republican	517508	Hines	Jim			7050			
+2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	01	REP	Republican	518265	Schuette	Bill			44948			
+2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518037	El-Sayed	Abdul			77672			
+2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518101	Thanedar	Shri			58757			
+2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	02	DEM	Democratic	518014	Whitmer	Gretchen			105867			
+2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518191	Gelineau	Bill			447			
+2018-08-07	02	00000	0	82	WAYNE	Governor 4 Year Term (1) Position	03	LIB	Libertarian	518241	Tatar	John	J.		389			
 2018-08-07	02	00000	0	83	WEXFORD	Governor 4 Year Term (1) Position	01	REP	Republican	518354	Calley	Brian			1630			
 2018-08-07	02	00000	0	83	WEXFORD	Governor 4 Year Term (1) Position	01	REP	Republican	518147	Colbeck	Patrick			364			
 2018-08-07	02	00000	0	83	WEXFORD	Governor 4 Year Term (1) Position	01	REP	Republican	517508	Hines	Jim			799			
@@ -833,9 +833,9 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	05	00000	0	29	GRATIOT	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1162	James	John			2011			
 2018-08-07	05	00000	0	29	GRATIOT	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1181	Pensler	Sandy			1819			
 2018-08-07	05	00000	0	29	GRATIOT	United States Senator 6 Year Term (1) Position	02	DEM	Democratic	-1179	Stabenow	Debbie			2476			
-2018-08-07	05	00000	0	30	HILLSDALE	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1162	James	John			3026			
-2018-08-07	05	00000	0	30	HILLSDALE	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1181	Pensler	Sandy			1890			
-2018-08-07	05	00000	0	30	HILLSDALE	United States Senator 6 Year Term (1) Position	02	DEM	Democratic	-1179	Stabenow	Debbie			1851			
+2018-08-07	05	00000	0	30	HILLSDALE	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1162	James	John			3168			
+2018-08-07	05	00000	0	30	HILLSDALE	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1181	Pensler	Sandy			1997			
+2018-08-07	05	00000	0	30	HILLSDALE	United States Senator 6 Year Term (1) Position	02	DEM	Democratic	-1179	Stabenow	Debbie			1990			
 2018-08-07	05	00000	0	31	HOUGHTON	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1162	James	John			1882			
 2018-08-07	05	00000	0	31	HOUGHTON	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1181	Pensler	Sandy			1091			
 2018-08-07	05	00000	0	31	HOUGHTON	United States Senator 6 Year Term (1) Position	02	DEM	Democratic	-1179	Stabenow	Debbie			3104			
@@ -989,9 +989,9 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	05	00000	0	81	WASHTENAW	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1162	James	John			13376			
 2018-08-07	05	00000	0	81	WASHTENAW	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1181	Pensler	Sandy			7760			
 2018-08-07	05	00000	0	81	WASHTENAW	United States Senator 6 Year Term (1) Position	02	DEM	Democratic	-1179	Stabenow	Debbie			67545			
-2018-08-07	05	00000	0	82	WAYNE	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1162	James	John			0			
-2018-08-07	05	00000	0	82	WAYNE	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1181	Pensler	Sandy			0			
-2018-08-07	05	00000	0	82	WAYNE	United States Senator 6 Year Term (1) Position	02	DEM	Democratic	-1179	Stabenow	Debbie			0			
+2018-08-07	05	00000	0	82	WAYNE	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1162	James	John			49134			
+2018-08-07	05	00000	0	82	WAYNE	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1181	Pensler	Sandy			39046			
+2018-08-07	05	00000	0	82	WAYNE	United States Senator 6 Year Term (1) Position	02	DEM	Democratic	-1179	Stabenow	Debbie			219604			
 2018-08-07	05	00000	0	83	WEXFORD	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1162	James	John			2555			
 2018-08-07	05	00000	0	83	WEXFORD	United States Senator 6 Year Term (1) Position	01	REP	Republican	-1181	Pensler	Sandy			2878			
 2018-08-07	05	00000	0	83	WEXFORD	United States Senator 6 Year Term (1) Position	02	DEM	Democratic	-1179	Stabenow	Debbie			1932			
@@ -1151,9 +1151,9 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	06	00700	0	23	EATON	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1189	Walberg	Tim			10902			
 2018-08-07	06	00700	0	23	EATON	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1168	Driskell	Gretchen			10251			
 2018-08-07	06	00700	0	23	EATON	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1196	Friday	Steven		Formerly: Steven Horvath	1519			
-2018-08-07	06	00700	0	30	HILLSDALE	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1189	Walberg	Tim			4597			
-2018-08-07	06	00700	0	30	HILLSDALE	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1168	Driskell	Gretchen			1588			
-2018-08-07	06	00700	0	30	HILLSDALE	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1196	Friday	Steven		Formerly: Steven Horvath	297			
+2018-08-07	06	00700	0	30	HILLSDALE	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1189	Walberg	Tim			4822			
+2018-08-07	06	00700	0	30	HILLSDALE	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1168	Driskell	Gretchen			1705			
+2018-08-07	06	00700	0	30	HILLSDALE	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1196	Friday	Steven		Formerly: Steven Horvath	310			
 2018-08-07	06	00700	0	38	JACKSON	7th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1189	Walberg	Tim			16354			
 2018-08-07	06	00700	0	38	JACKSON	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1168	Driskell	Gretchen			9464			
 2018-08-07	06	00700	0	38	JACKSON	7th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1196	Friday	Steven		Formerly: Steven Horvath	2163			
@@ -1224,81 +1224,81 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	06	01100	0	63	OAKLAND	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1211	Skinner	Nancy			5594			
 2018-08-07	06	01100	0	63	OAKLAND	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1182	Stevens	Haley			14138			
 2018-08-07	06	01100	0	63	OAKLAND	11th District Representative in Congress 2 Year Term (1) Position	03	LIB	Libertarian	-1147	Schwartz	Leonard			312			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1154	Bentivolio	Kerry			0			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1165	Epstein	Lena			0			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1188	Kesto	Klint			0			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1169	Kowall	Mike			0			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1148	Raczkowski	Rocky			0			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1206	Greimel	Tim			0			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1184	Gupta	Suneel			0			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1191	Saad	Fayrouz			0			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1211	Skinner	Nancy			0			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1182	Stevens	Haley			0			
-2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	03	LIB	Libertarian	-1147	Schwartz	Leonard			0			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1154	Bentivolio	Kerry			4522			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1165	Epstein	Lena			10405			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1188	Kesto	Klint			3112			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1169	Kowall	Mike			3893			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1148	Raczkowski	Rocky			9053			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1206	Greimel	Tim			6540			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1184	Gupta	Suneel			8176			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1191	Saad	Fayrouz			8485			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1211	Skinner	Nancy			3790			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1182	Stevens	Haley			10094			
+2018-08-07	06	01100	0	82	WAYNE	11th District Representative in Congress 2 Year Term (1) Position	03	LIB	Libertarian	-1147	Schwartz	Leonard			221			
 2018-08-07	06	01200	0	81	WASHTENAW	12th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1157	Jones	Jeff			7380			
 2018-08-07	06	01200	0	81	WASHTENAW	12th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1155	Dingell	Debbie			52352			
-2018-08-07	06	01200	0	82	WAYNE	12th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1157	Jones	Jeff			0			
-2018-08-07	06	01200	0	82	WAYNE	12th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1155	Dingell	Debbie			0			
-2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1208	Conyers	Ian			0			
-2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1217	Jackson	Shanelle			0			
-2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1200	Jones	Brenda			0			
-2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1220	Tlaib	Rashida			0			
-2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1223	Wild	Bill			0			
-2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1192	Young, II	Coleman	A.		0			
-2018-08-07	06	01300	8	82	WAYNE	13th District Representative in Congress Partial Term Ending 01/02/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	-1209	Conyers	Ian			0			
-2018-08-07	06	01300	8	82	WAYNE	13th District Representative in Congress Partial Term Ending 01/02/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	-1218	Jones	Brenda			0			
-2018-08-07	06	01300	8	82	WAYNE	13th District Representative in Congress Partial Term Ending 01/02/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	-1219	Tlaib	Rashida			0			
-2018-08-07	06	01300	8	82	WAYNE	13th District Representative in Congress Partial Term Ending 01/02/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	-1222	Wild	Bill			0			
+2018-08-07	06	01200	0	82	WAYNE	12th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1157	Jones	Jeff			25952			
+2018-08-07	06	01200	0	82	WAYNE	12th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1155	Dingell	Debbie			50213			
+2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1208	Conyers	Ian			5861			
+2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1217	Jackson	Shanelle			4848			
+2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1200	Jones	Brenda			26916			
+2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1220	Tlaib	Rashida			27803			
+2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1223	Wild	Bill			12589			
+2018-08-07	06	01300	0	82	WAYNE	13th District Representative in Congress 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	-1192	Young, II	Coleman	A.		11162			
+2018-08-07	06	01300	8	82	WAYNE	13th District Representative in Congress Partial Term Ending 01/02/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	-1209	Conyers	Ian			9740			
+2018-08-07	06	01300	8	82	WAYNE	13th District Representative in Congress Partial Term Ending 01/02/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	-1218	Jones	Brenda			32727			
+2018-08-07	06	01300	8	82	WAYNE	13th District Representative in Congress Partial Term Ending 01/02/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	-1219	Tlaib	Rashida			31084			
+2018-08-07	06	01300	8	82	WAYNE	13th District Representative in Congress Partial Term Ending 01/02/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	-1222	Wild	Bill			13152			
 2018-08-07	06	01400	0	63	OAKLAND	14th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1195	Herschfus	Marc	S.		11780			
 2018-08-07	06	01400	0	63	OAKLAND	14th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1166	Lawrence	Brenda			53502			
-2018-08-07	06	01400	0	82	WAYNE	14th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1195	Herschfus	Marc	S.		0			
-2018-08-07	06	01400	0	82	WAYNE	14th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1166	Lawrence	Brenda			0			
-2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518804	Montie	Pauline			0			
-2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518192	Chang	Stephanie			0			
-2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517843	Cole, Jr.	James			0			
-2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518081	Rivera	Nicholas			0			
-2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518924	Roehm	Stephanie			0			
-2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518495	Scott	Bettie	Cook		0			
-2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518898	Talabi	Alberta	Tinsley		0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518734	Hauler	John			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518875	Papas	Lisa			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518411	Aiyash	Abraham			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518231	Banks	Brian			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518145	Campbell	Tommy			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	514651	Cushingberry, Jr.	George			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518837	Gannan	Lawrence	E.		0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518228	Hollier	Adam			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518913	Lemmons	LaMar			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518557	Miah	Anam			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518852	Olumba	John			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518759	Phillips	William			0			
-2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518944	Williams	Regina	L.		0			
-2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518411	Aiyash	Abraham			0			
-2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518231	Banks	Brian			0			
-2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	514651	Cushingberry, Jr.	George			0			
-2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518228	Hollier	Adam			0			
-2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518913	Lemmons	LaMar			0			
-2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518852	Olumba	John			0			
-2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518736	Ricci	Joe			0			
-2018-08-07	07	00300	0	82	WAYNE	3rd District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518839	Stecker	Kathy			0			
-2018-08-07	07	00300	0	82	WAYNE	3rd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518889	Belle	Anita			0			
-2018-08-07	07	00300	0	82	WAYNE	3rd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518399	Burrell	Terry	T.		0			
-2018-08-07	07	00300	0	82	WAYNE	3rd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518332	Santana	Sylvia			0			
-2018-08-07	07	00300	0	82	WAYNE	3rd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518341	Woronchak	Gary			0			
-2018-08-07	07	00400	0	82	WAYNE	4th District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518860	Savino	Angela			0			
-2018-08-07	07	00400	0	82	WAYNE	4th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518519	Bullock	Marshall			0			
-2018-08-07	07	00400	0	82	WAYNE	4th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518532	Durhal	Fred			0			
-2018-08-07	07	00400	0	82	WAYNE	4th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517757	Pinkins	Carron	L.		0			
-2018-08-07	07	00500	0	82	WAYNE	5th District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518258	Wilkins	DeShawn			0			
-2018-08-07	07	00500	0	82	WAYNE	5th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518914	Alexander	Betty	Jean		0			
-2018-08-07	07	00500	0	82	WAYNE	5th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516698	Knezek	David			0			
-2018-08-07	07	00600	0	82	WAYNE	6th District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518749	Jones	Brenda			0			
-2018-08-07	07	00600	0	82	WAYNE	6th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518283	Geiss	Erika			0			
-2018-08-07	07	00600	0	82	WAYNE	6th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518152	Kosowski	Robert	L.		0			
-2018-08-07	07	00700	0	82	WAYNE	7th District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518309	Cox	Laura			0			
-2018-08-07	07	00700	0	82	WAYNE	7th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518253	Polehanki	Dayna			0			
-2018-08-07	07	00700	0	82	WAYNE	7th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518153	Qadir	Ghulam			0			
-2018-08-07	07	00700	0	82	WAYNE	7th District State Senator 4 Year Term (1) Position Files In WAYNE County	03	LIB	Libertarian	518827	LeBlanc	Joseph	H.		0			
+2018-08-07	06	01400	0	82	WAYNE	14th District Representative in Congress 2 Year Term (1) Position	01	REP	Republican	-1195	Herschfus	Marc	S.		6545			
+2018-08-07	06	01400	0	82	WAYNE	14th District Representative in Congress 2 Year Term (1) Position	02	DEM	Democratic	-1166	Lawrence	Brenda			51237			
+2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518804	Montie	Pauline			8426			
+2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518192	Chang	Stephanie			16422			
+2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517843	Cole, Jr.	James			1712			
+2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518081	Rivera	Nicholas			939			
+2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518924	Roehm	Stephanie			1463			
+2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518495	Scott	Bettie	Cook		3697			
+2018-08-07	07	00100	0	82	WAYNE	1st District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518898	Talabi	Alberta	Tinsley		8697			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518734	Hauler	John			3293			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518875	Papas	Lisa			3879			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518411	Aiyash	Abraham			5764			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518231	Banks	Brian			4719			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518145	Campbell	Tommy			264			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	514651	Cushingberry, Jr.	George			1116			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518837	Gannan	Lawrence	E.		555			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518228	Hollier	Adam			6927			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518913	Lemmons	LaMar			2505			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518557	Miah	Anam			931			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518852	Olumba	John			1730			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518759	Phillips	William			328			
+2018-08-07	07	00200	0	82	WAYNE	2nd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518944	Williams	Regina	L.		2592			
+2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518411	Aiyash	Abraham			6459			
+2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518231	Banks	Brian			5048			
+2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	514651	Cushingberry, Jr.	George			1350			
+2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518228	Hollier	Adam			7074			
+2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518913	Lemmons	LaMar			3077			
+2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518852	Olumba	John			1948			
+2018-08-07	07	00200	8	82	WAYNE	2nd District State Senator Partial Term Ending 01/01/2019 (1) Position Files In WAYNE County	02	DEM	Democratic	518736	Ricci	Joe			1959			
+2018-08-07	07	00300	0	82	WAYNE	3rd District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518839	Stecker	Kathy			4235			
+2018-08-07	07	00300	0	82	WAYNE	3rd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518889	Belle	Anita			4370			
+2018-08-07	07	00300	0	82	WAYNE	3rd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518399	Burrell	Terry	T.		1669			
+2018-08-07	07	00300	0	82	WAYNE	3rd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518332	Santana	Sylvia			12660			
+2018-08-07	07	00300	0	82	WAYNE	3rd District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518341	Woronchak	Gary			11790			
+2018-08-07	07	00400	0	82	WAYNE	4th District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518860	Savino	Angela			5349			
+2018-08-07	07	00400	0	82	WAYNE	4th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518519	Bullock	Marshall			12278			
+2018-08-07	07	00400	0	82	WAYNE	4th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518532	Durhal	Fred			10634			
+2018-08-07	07	00400	0	82	WAYNE	4th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517757	Pinkins	Carron	L.		4858			
+2018-08-07	07	00500	0	82	WAYNE	5th District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518258	Wilkins	DeShawn			4944			
+2018-08-07	07	00500	0	82	WAYNE	5th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518914	Alexander	Betty	Jean		18926			
+2018-08-07	07	00500	0	82	WAYNE	5th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516698	Knezek	David			15803			
+2018-08-07	07	00600	0	82	WAYNE	6th District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518749	Jones	Brenda			11516			
+2018-08-07	07	00600	0	82	WAYNE	6th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518283	Geiss	Erika			19154			
+2018-08-07	07	00600	0	82	WAYNE	6th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518152	Kosowski	Robert	L.		10069			
+2018-08-07	07	00700	0	82	WAYNE	7th District State Senator 4 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518309	Cox	Laura			29070			
+2018-08-07	07	00700	0	82	WAYNE	7th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518253	Polehanki	Dayna			27817			
+2018-08-07	07	00700	0	82	WAYNE	7th District State Senator 4 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518153	Qadir	Ghulam			10013			
+2018-08-07	07	00700	0	82	WAYNE	7th District State Senator 4 Year Term (1) Position Files In WAYNE County	03	LIB	Libertarian	518827	LeBlanc	Joseph	H.		235			
 2018-08-07	07	00800	0	50	MACOMB	8th District State Senator 4 Year Term (1) Position Files In MACOMB County	01	REP	Republican	518830	Goike	Ken			9565			
 2018-08-07	07	00800	0	50	MACOMB	8th District State Senator 4 Year Term (1) Position Files In MACOMB County	01	REP	Republican	518093	Lucido	Peter	J.		24261			
 2018-08-07	07	00800	0	50	MACOMB	8th District State Senator 4 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	518666	Biange	Patrick			6612			
@@ -1344,10 +1344,10 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	07	01600	0	12	BRANCH	16th District State Senator 4 Year Term (1) Position	01	REP	Republican	516758	Shirkey	Mike			3015			
 2018-08-07	07	01600	0	12	BRANCH	16th District State Senator 4 Year Term (1) Position	02	DEM	Democratic	518768	Toops	Val	Cochran		2116			
 2018-08-07	07	01600	0	12	BRANCH	16th District State Senator 4 Year Term (1) Position	03	LIB	Libertarian	518902	Muszynski	Ronald	A.		21			
-2018-08-07	07	01600	0	30	HILLSDALE	16th District State Senator 4 Year Term (1) Position	01	REP	Republican	518916	Dame	Matt			2258			
-2018-08-07	07	01600	0	30	HILLSDALE	16th District State Senator 4 Year Term (1) Position	01	REP	Republican	516758	Shirkey	Mike			2805			
-2018-08-07	07	01600	0	30	HILLSDALE	16th District State Senator 4 Year Term (1) Position	02	DEM	Democratic	518768	Toops	Val	Cochran		1636			
-2018-08-07	07	01600	0	30	HILLSDALE	16th District State Senator 4 Year Term (1) Position	03	LIB	Libertarian	518902	Muszynski	Ronald	A.		23			
+2018-08-07	07	01600	0	30	HILLSDALE	16th District State Senator 4 Year Term (1) Position	01	REP	Republican	518916	Dame	Matt			2351			
+2018-08-07	07	01600	0	30	HILLSDALE	16th District State Senator 4 Year Term (1) Position	01	REP	Republican	516758	Shirkey	Mike			2962			
+2018-08-07	07	01600	0	30	HILLSDALE	16th District State Senator 4 Year Term (1) Position	02	DEM	Democratic	518768	Toops	Val	Cochran		1754			
+2018-08-07	07	01600	0	30	HILLSDALE	16th District State Senator 4 Year Term (1) Position	03	LIB	Libertarian	518902	Muszynski	Ronald	A.		24			
 2018-08-07	07	01600	0	38	JACKSON	16th District State Senator 4 Year Term (1) Position	01	REP	Republican	518916	Dame	Matt			5929			
 2018-08-07	07	01600	0	38	JACKSON	16th District State Senator 4 Year Term (1) Position	01	REP	Republican	516758	Shirkey	Mike			12128			
 2018-08-07	07	01600	0	38	JACKSON	16th District State Senator 4 Year Term (1) Position	02	DEM	Democratic	518768	Toops	Val	Cochran		10385			
@@ -1599,7 +1599,7 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	07	03600	0	60	MONTMORENCY	36th District State Senator 4 Year Term (1) Position	02	DEM	Democratic	518758	Weir	Joe			613			
 2018-08-07	07	03600	0	68	OSCODA	36th District State Senator 4 Year Term (1) Position	01	REP	Republican	516815	Stamas	Jim			1259			
 2018-08-07	07	03600	0	68	OSCODA	36th District State Senator 4 Year Term (1) Position	02	DEM	Democratic	518758	Weir	Joe			447			
-2018-08-07	07	03600	0	69	OTSEGO	36th District State Senator 4 Year Term (1) Position	01	REP	Republican	516815	Stamas	Jim			3182			
+2018-08-07	07	03600	0	69	OTSEGO	36th District State Senator 4 Year Term (1) Position	01	REP	Republican	516815	Stamas	Jim			3685			
 2018-08-07	07	03600	0	69	OTSEGO	36th District State Senator 4 Year Term (1) Position	02	DEM	Democratic	518758	Weir	Joe			1602			
 2018-08-07	07	03600	0	71	PRESQUE ISLE	36th District State Senator 4 Year Term (1) Position	01	REP	Republican	516815	Stamas	Jim			2055			
 2018-08-07	07	03600	0	71	PRESQUE ISLE	36th District State Senator 4 Year Term (1) Position	02	DEM	Democratic	518758	Weir	Joe			1005			
@@ -1663,119 +1663,119 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	07	03800	0	77	SCHOOLCRAFT	38th District State Senator 4 Year Term (1) Position	01	REP	Republican	518036	Carey	Mike			245			
 2018-08-07	07	03800	0	77	SCHOOLCRAFT	38th District State Senator 4 Year Term (1) Position	01	REP	Republican	518039	McBroom	Ed			635			
 2018-08-07	07	03800	0	77	SCHOOLCRAFT	38th District State Senator 4 Year Term (1) Position	02	DEM	Democratic	518011	Dianda	Scott			734			
-2018-08-07	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518709	Corcoran	Mark			0			
-2018-08-07	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518579	Maloy	Shaun			0			
-2018-08-07	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518090	Yancey	Tenisha			0			
-2018-08-07	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	03	LIB	Libertarian	518853	Creswell	Gregory			0			
-2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518789	Palffy	John			0			
-2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518716	Anderson	Kinda	Makini		0			
-2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516064	Banks	Carol			0			
-2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518586	Bell	Willie			0			
-2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518761	Johnson	Latisha			0			
-2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518919	Jones	E.	Regina		0			
-2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517721	Tate	Joe			0			
-2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517290	Tinsley-Smith	Carla	L.	Formerly: Carla L. Smith	0			
-2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518784	Brodersen	Dolores			0			
-2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516848	Byrd	Wendell	L.		0			
-2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518371	Cochran	China			0			
-2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518433	Cromer	John			0			
-2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518718	Owens	Christopher	A.		0			
-2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518570	Proctor	Omar	K.		0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518808	Weathington	Howard			0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518844	Alam	Md	Rabbi		0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518463	Almasmari	Saad	A.		0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518947	Boston	Derek			0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	512955	Collins	Christopher	L.		0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518119	Friedrichs	Matt			0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518849	Jessop	Justin			0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518604	Jones	Myya			0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518848	Little	Ernest	T.		0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518432	McMillan	Diane			0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518480	Nolish	Jeffrey			0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518218	Oberholtzer	Michele			0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518401	Razo	Rico			0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518429	Rob	Syed			0			
-2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518130	Robinson	Isaac			0			
-2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518700	Patterson	Dorothy			0			
-2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518602	Johnson	Cynthia	A.		0			
-2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518942	Murphy, Jr.	Mark	Anthony		0			
-2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518704	Payne, Jr.	Mark	C.		0			
-2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518478	Ross	Rita			0			
-2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518483	Tobey	Jermaine	R.		0			
-2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518934	Woodards, II	Cliff			0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518712	Sawyer	Linda			0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518728	Burton	Willie	E.		0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518599	Carter	Tyrone			0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518270	Choske	Tom			0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518403	DeFoe	Terra			0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518236	Edevbie	Aghogho			0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518721	Humphries	Paula	Georgette		0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518702	Magdaleno	Samantha			0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518676	Sanchez	David			0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518226	White	Ricardo	D.		0			
-2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518603	Wilson	Charlesetta			0			
-2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518795	Cole	Ronald	J.		0			
-2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518763	Turner	Marcelis			0			
-2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	514145	Garrett	LaTanya			0			
-2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518735	Harvey-Quinn	Najanava			0			
-2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518605	Jones	Jeff			0			
-2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518722	Robinson	Elene			0			
-2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518113	Parker	Valerie	R.		0			
-2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518609	Beaver	LaSonya			0			
-2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	515680	Dagnogo	Sherry	Gay		0			
-2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518462	Etheridge	George	A.		0			
-2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518708	Henry	Jasmine			0			
-2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518641	Sarr	Seydi			0			
-2018-08-07	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518744	Stephens	James			0			
-2018-08-07	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517630	Pollard	Gary			0			
-2018-08-07	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518319	Stuckey, II	Donald	L.		0			
-2018-08-07	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518487	Whitsett	Karen			0			
-2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518857	Bomer	Articia			0			
-2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518745	Brang	William			0			
-2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518863	Barley	Rhonda			0			
-2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518711	Brenner	James			0			
-2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518873	Kelley	Tyson			0			
-2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516888	Love	Leslie			0			
-2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	03	LIB	Libertarian	518667	Morgan	Jeremy			0			
-2018-08-07	08	01100	0	82	WAYNE	11th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518746	Townsend	James			0			
-2018-08-07	08	01100	0	82	WAYNE	11th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517924	Jones	Jewell			0			
-2018-08-07	08	01100	0	82	WAYNE	11th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518539	Walker	Randy	E.		0			
-2018-08-07	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518782	Bailey	Michelle			0			
-2018-08-07	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518468	Boles	Tomeka			0			
-2018-08-07	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518423	Garza	Alex			0			
-2018-08-07	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518409	Shelton	Lauretha			0			
-2018-08-07	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518490	Taylor	Alexandria			0			
-2018-08-07	08	01300	0	82	WAYNE	13th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518747	Spencer	Annie			0			
-2018-08-07	08	01300	0	82	WAYNE	13th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518921	Alhasani	Asmaa			0			
-2018-08-07	08	01300	0	82	WAYNE	13th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	514741	Liberati	Frank			0			
-2018-08-07	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518843	Stasik	Darrell			0			
-2018-08-07	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517612	Clemente	Cara			0			
-2018-08-07	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518642	Kremer	Mark	Joseph		0			
-2018-08-07	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518838	Mitchell	Doug			0			
-2018-08-07	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517414	Hammoud	Abdullah			0			
-2018-08-07	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518748	Rice-White	Jody			0			
-2018-08-07	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518564	Coleman	Kevin			0			
-2018-08-07	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518079	Johnson	Bill			0			
-2018-08-07	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518127	Johnson	Jacob			0			
-2018-08-07	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518038	McDermott	Mike			0			
+2018-08-07	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518709	Corcoran	Mark			2927			
+2018-08-07	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518579	Maloy	Shaun			1919			
+2018-08-07	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518090	Yancey	Tenisha			7573			
+2018-08-07	08	00100	0	82	WAYNE	1st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	03	LIB	Libertarian	518853	Creswell	Gregory			25			
+2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518789	Palffy	John			2544			
+2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518716	Anderson	Kinda	Makini		367			
+2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516064	Banks	Carol			1575			
+2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518586	Bell	Willie			1199			
+2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518761	Johnson	Latisha			1749			
+2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518919	Jones	E.	Regina		463			
+2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517721	Tate	Joe			2950			
+2018-08-07	08	00200	0	82	WAYNE	2nd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517290	Tinsley-Smith	Carla	L.	Formerly: Carla L. Smith	2095			
+2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518784	Brodersen	Dolores			192			
+2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516848	Byrd	Wendell	L.		5391			
+2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518371	Cochran	China			1691			
+2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518433	Cromer	John			1272			
+2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518718	Owens	Christopher	A.		655			
+2018-08-07	08	00300	0	82	WAYNE	3rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518570	Proctor	Omar	K.		866			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518808	Weathington	Howard			268			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518844	Alam	Md	Rabbi		162			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518463	Almasmari	Saad	A.		1765			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518947	Boston	Derek			71			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	512955	Collins	Christopher	L.		295			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518119	Friedrichs	Matt			323			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518849	Jessop	Justin			68			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518604	Jones	Myya			876			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518848	Little	Ernest	T.		235			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518432	McMillan	Diane			649			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518480	Nolish	Jeffrey			559			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518218	Oberholtzer	Michele			1746			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518401	Razo	Rico			1110			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518429	Rob	Syed			953			
+2018-08-07	08	00400	0	82	WAYNE	4th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518130	Robinson	Isaac			2370			
+2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518700	Patterson	Dorothy			161			
+2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518602	Johnson	Cynthia	A.		2132			
+2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518942	Murphy, Jr.	Mark	Anthony		312			
+2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518704	Payne, Jr.	Mark	C.		721			
+2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518478	Ross	Rita			2126			
+2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518483	Tobey	Jermaine	R.		152			
+2018-08-07	08	00500	0	82	WAYNE	5th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518934	Woodards, II	Cliff			318			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518712	Sawyer	Linda			457			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518728	Burton	Willie	E.		975			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518599	Carter	Tyrone			2362			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518270	Choske	Tom			534			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518403	DeFoe	Terra			1490			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518236	Edevbie	Aghogho			1247			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518721	Humphries	Paula	Georgette		553			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518702	Magdaleno	Samantha			541			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518676	Sanchez	David			696			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518226	White	Ricardo	D.		776			
+2018-08-07	08	00600	0	82	WAYNE	6th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518603	Wilson	Charlesetta			2133			
+2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518795	Cole	Ronald	J.		64			
+2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518763	Turner	Marcelis			72			
+2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	514145	Garrett	LaTanya			9548			
+2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518735	Harvey-Quinn	Najanava			626			
+2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518605	Jones	Jeff			829			
+2018-08-07	08	00700	0	82	WAYNE	7th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518722	Robinson	Elene			863			
+2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518113	Parker	Valerie	R.		228			
+2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518609	Beaver	LaSonya			1026			
+2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	515680	Dagnogo	Sherry	Gay		7897			
+2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518462	Etheridge	George	A.		1333			
+2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518708	Henry	Jasmine			1623			
+2018-08-07	08	00800	0	82	WAYNE	8th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518641	Sarr	Seydi			756			
+2018-08-07	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518744	Stephens	James			258			
+2018-08-07	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517630	Pollard	Gary			3077			
+2018-08-07	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518319	Stuckey, II	Donald	L.		792			
+2018-08-07	08	00900	0	82	WAYNE	9th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518487	Whitsett	Karen			5008			
+2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518857	Bomer	Articia			277			
+2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518745	Brang	William			1617			
+2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518863	Barley	Rhonda			1844			
+2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518711	Brenner	James			1347			
+2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518873	Kelley	Tyson			556			
+2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516888	Love	Leslie			9273			
+2018-08-07	08	01000	0	82	WAYNE	10th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	03	LIB	Libertarian	518667	Morgan	Jeremy			28			
+2018-08-07	08	01100	0	82	WAYNE	11th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518746	Townsend	James			3237			
+2018-08-07	08	01100	0	82	WAYNE	11th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517924	Jones	Jewell			6203			
+2018-08-07	08	01100	0	82	WAYNE	11th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518539	Walker	Randy	E.		3765			
+2018-08-07	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518782	Bailey	Michelle			3459			
+2018-08-07	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518468	Boles	Tomeka			1029			
+2018-08-07	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518423	Garza	Alex			4302			
+2018-08-07	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518409	Shelton	Lauretha			550			
+2018-08-07	08	01200	0	82	WAYNE	12th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518490	Taylor	Alexandria			3355			
+2018-08-07	08	01300	0	82	WAYNE	13th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518747	Spencer	Annie			4605			
+2018-08-07	08	01300	0	82	WAYNE	13th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518921	Alhasani	Asmaa			2060			
+2018-08-07	08	01300	0	82	WAYNE	13th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	514741	Liberati	Frank			6858			
+2018-08-07	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518843	Stasik	Darrell			3843			
+2018-08-07	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517612	Clemente	Cara			6469			
+2018-08-07	08	01400	0	82	WAYNE	14th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518642	Kremer	Mark	Joseph		1310			
+2018-08-07	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518838	Mitchell	Doug			3310			
+2018-08-07	08	01500	0	82	WAYNE	15th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517414	Hammoud	Abdullah			11739			
+2018-08-07	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518748	Rice-White	Jody			3143			
+2018-08-07	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518564	Coleman	Kevin			4093			
+2018-08-07	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518079	Johnson	Bill			2603			
+2018-08-07	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518127	Johnson	Jacob			397			
+2018-08-07	08	01600	0	82	WAYNE	16th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518038	McDermott	Mike			3286			
 2018-08-07	08	01700	0	58	MONROE	17th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517544	Bellino, Jr.	Joe			5335			
 2018-08-07	08	01700	0	58	MONROE	17th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	518515	LaVoy	Michelle			5006			
-2018-08-07	08	01700	0	82	WAYNE	17th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517544	Bellino, Jr.	Joe			0			
-2018-08-07	08	01700	0	82	WAYNE	17th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	518515	LaVoy	Michelle			0			
+2018-08-07	08	01700	0	82	WAYNE	17th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	517544	Bellino, Jr.	Joe			1423			
+2018-08-07	08	01700	0	82	WAYNE	17th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	518515	LaVoy	Michelle			1993			
 2018-08-07	08	01800	0	50	MACOMB	18th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	518705	McKee	Kyle			6552			
 2018-08-07	08	01800	0	50	MACOMB	18th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	517236	Hertel	Kevin			11129			
-2018-08-07	08	01900	0	82	WAYNE	19th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518537	Meakin	Brian			0			
-2018-08-07	08	01900	0	82	WAYNE	19th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518063	Centers	Dan			0			
-2018-08-07	08	01900	0	82	WAYNE	19th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518084	Pohutsky	Laurie			0			
-2018-08-07	08	02000	0	82	WAYNE	20th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517433	Noble	Jeff			0			
-2018-08-07	08	02000	0	82	WAYNE	20th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518402	Koleszar	Matt			0			
-2018-08-07	08	02100	0	82	WAYNE	21st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518831	Moore	Darian			0			
-2018-08-07	08	02100	0	82	WAYNE	21st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516327	Pagan	Kristy			0			
+2018-08-07	08	01900	0	82	WAYNE	19th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518537	Meakin	Brian			9526			
+2018-08-07	08	01900	0	82	WAYNE	19th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518063	Centers	Dan			5149			
+2018-08-07	08	01900	0	82	WAYNE	19th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518084	Pohutsky	Laurie			6221			
+2018-08-07	08	02000	0	82	WAYNE	20th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517433	Noble	Jeff			10059			
+2018-08-07	08	02000	0	82	WAYNE	20th District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	518402	Koleszar	Matt			11540			
+2018-08-07	08	02100	0	82	WAYNE	21st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	518831	Moore	Darian			6679			
+2018-08-07	08	02100	0	82	WAYNE	21st District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	516327	Pagan	Kristy			12042			
 2018-08-07	08	02200	0	50	MACOMB	22nd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	518725	Blundell	Arthur			4266			
 2018-08-07	08	02200	0	50	MACOMB	22nd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	516607	Chirkun	John			7986			
 2018-08-07	08	02200	0	50	MACOMB	22nd District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	03	LIB	Libertarian	518900	Kuehnel	Matt			47			
-2018-08-07	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517827	Frazier	Michael			0			
-2018-08-07	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517302	Camilleri	Darrin			0			
+2018-08-07	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	01	REP	Republican	517827	Frazier	Michael			7393			
+2018-08-07	08	02300	0	82	WAYNE	23rd District Representative in State Legislature 2 Year Term (1) Position Files In WAYNE County	02	DEM	Democratic	517302	Camilleri	Darrin			10165			
 2018-08-07	08	02400	0	50	MACOMB	24th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	517481	Marino	Steve			8760			
 2018-08-07	08	02400	0	50	MACOMB	24th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	02	DEM	Democratic	518496	Winn	Laura			8088			
 2018-08-07	08	02500	0	50	MACOMB	25th District Representative in State Legislature 2 Year Term (1) Position Files In MACOMB County	01	REP	Republican	518918	Early	Jazmine	M.		6288			
@@ -1922,8 +1922,8 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	08	05700	0	46	LENAWEE	57th District Representative in State Legislature 2 Year Term (1) Position Files In LENAWEE County	02	DEM	Democratic	518818	Pedersen	Amber			5660			
 2018-08-07	08	05800	0	12	BRANCH	58th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516670	Leutheuser	Eric			4817			
 2018-08-07	08	05800	0	12	BRANCH	58th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	518766	Barnes	Tamara	C.		2165			
-2018-08-07	08	05800	0	30	HILLSDALE	58th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516670	Leutheuser	Eric			4695			
-2018-08-07	08	05800	0	30	HILLSDALE	58th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	518766	Barnes	Tamara	C.		1635			
+2018-08-07	08	05800	0	30	HILLSDALE	58th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516670	Leutheuser	Eric			4920			
+2018-08-07	08	05800	0	30	HILLSDALE	58th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	518766	Barnes	Tamara	C.		1755			
 2018-08-07	08	05900	0	14	CASS	59th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516647	Miller	Aaron			2665			
 2018-08-07	08	05900	0	14	CASS	59th District Representative in State Legislature 2 Year Term (1) Position	02	DEM	Democratic	518627	Smith	Dennis	B.		1534			
 2018-08-07	08	05900	0	75	ST. JOSEPH	59th District Representative in State Legislature 2 Year Term (1) Position	01	REP	Republican	516647	Miller	Aaron			4968			
@@ -2343,4 +2343,4 @@ ElectionDate	OfficeCode(Text)	DistrictCode(Text)	StatusCode	CountyCode	CountyNam
 2018-08-07	17	07100	1	71	PRESQUE ISLE	PRESQUE ISLE Judge of Probate Court Non-Incumbent 6 Year Term (1) Position Files With County	08	NPA	No  Affiliation	518623	Conklin	Katy			1243			
 2018-08-07	17	07100	1	71	PRESQUE ISLE	PRESQUE ISLE Judge of Probate Court Non-Incumbent 6 Year Term (1) Position Files With County	08	NPA	No  Affiliation	518955	Radzibon	Kenneth	A.		956			
 2018-08-07	17	07100	1	71	PRESQUE ISLE	PRESQUE ISLE Judge of Probate Court Non-Incumbent 6 Year Term (1) Position Files With County	08	NPA	No  Affiliation	518587	Stone	Erik	J.		1159			
-RECORDS: 2344	RESULTS: UNOFFICIAL	RUNDATE: 08/08/2018	RUNTIME: 17:03:01
+RECORDS: 2344	RESULTS: UNOFFICIAL	RUNDATE: 08/08/2018	RUNTIME: 20:43:01

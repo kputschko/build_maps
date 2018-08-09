@@ -7,13 +7,6 @@ pacman::p_load(tidyverse, readr, foreach, rlang)
 
 
 filename_all <- dir(path = "data/tsv/")
-filename_one <- filename_all %>% last()
-
-# test_one <-
-#   str_glue("data/tsv/{filename_one}") %>%
-#   read_tsv() %>%
-#   filter(!is.na(ElectionDate) & !is.na(CandidateID)) %>%
-#   set_tidy_names()
 
 
 import_all <-
@@ -49,22 +42,22 @@ import_all <-
 
   }
 
-import_tibble <-
-  import_all %>%
-  flatten() %>%
-  enframe()
-
-import_all %>%
-  flatten() %>%
-  map(keep, lubridate::is.Date)
-
-test_names <-
-  import_tibble %>%
-  transmute(colnames = map(value, colnames))
-
-test_names %>%
-  unnest(colnames) %>%
-  count(colnames)
+# import_tibble <-
+#   import_all %>%
+#   flatten() %>%
+#   enframe()
+#
+# import_all %>%
+#   flatten() %>%
+#   map(keep, lubridate::is.Date)
+#
+# test_names <-
+#   import_tibble %>%
+#   transmute(colnames = map(value, colnames))
+#
+# test_names %>%
+#   unnest(colnames) %>%
+#   count(colnames)
 
 
 single_table <-
