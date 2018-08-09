@@ -101,4 +101,38 @@ mi_election_map %>%
   geom_polygon(color = "#ffffff", size = 0.25) +
   coord_map("albers", lat0 = 39, lat1 = 45) +
   theme_minimal() +
-  facet_wrap(~ CandidateLastName)
+  facet_wrap(~ CandidateLastName) +
+  scale_fill_viridis_c() +
+  labs(x = NULL, y = NULL)
+
+
+
+# Analysis ----------------------------------------------------------------
+
+# How close were Abdul and Gretchen?
+# ES - Whitmer -> negative means Abdul lost by this much
+
+mi_election_dif <-
+  mi_election_dem_gov_county %>%
+  filter(CandidateLastName != "Thanedar") %>%
+  group_by(CountyName) %>%
+  summarise(Vote_Dif = magrittr::subtract(first(Votes), last(Votes)),
+            Percent_Dif = magrittr::subtract(first(Percent), last(Percent)))
+
+mi_dif_map <-
+  mi_election_dif %>%
+  left_join(match_county, by = c("CountyName" = "county_match"))
+
+
+mi_dif_map %>%
+  ggplot(aes(long, lat, group = group, fill = Percent_Dif)) +
+  geom_polygon(color = "white", size = 0.25) +
+  coord_map("albers", lat0 = 39, lat1 = 45) +
+  theme_minimal() +
+  scale_fill_viridis_c(direction = -1) +
+  labs(x = NULL, y = NULL)
+
+# Primary: Can I see if MI is becoming more progressive?  I'll need to identify progressive candidates
+# General: How does vote sway between D and R since 98?
+# General: Can I map congressional districts? Over time? They change every 10 years
+# Primary: How has turnout changed for D and R?
