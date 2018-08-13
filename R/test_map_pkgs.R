@@ -19,11 +19,42 @@ ggplot() +
   facet_wrap(~ VAR, ncol = 1)
 
 
+# A NEW HOPE
+mi_election <-
+  read_rds("data/election_mi.rds") %>%
+  filter(ElectionDate >= "2018-01-01") %>%
+  mutate(CountyName = str_replace(CountyName, "GD. TRAVERSE", "GRAND TRAVERSE")) %>%
+  filter(PartyName == "DEM",
+         `OfficeCode(Text)` == "02") %>%
+  group_by(CountyName, CandidateLastName) %>%
+  summarise(Votes = sum(CandidateVotes)) %>%
+  group_by(CountyName) %>%
+  mutate(Percent = Votes / sum(Votes))
+
+
 files <- str_c(getwd(), "data/shape_mi", dir("data/shape_mi"), sep = "/")
 
+mi_counties <-
+  files %>%
+  str_subset("Counties") %>%
+  read_sf() %>%
+  mutate_at(vars(NAME), str_to_upper)
 
-files %>% first() %>% sf::st_read()
 
+mi_map_data <-
+  left_join(mi_election,
+            mi_counties,
+            by = c("CountyName" = "NAME"))
+
+
+mi_map_data %>%
+  ggplot() +
+  aes(fill = Percent) +
+  geom_sf(color = "white", size = 0.10) +
+  coord_sf(crs = 4326) +
+  facet_wrap(~ CandidateLastName) +
+  scale_fill_viridis_c() +
+  theme_minimal()
 
 
 
