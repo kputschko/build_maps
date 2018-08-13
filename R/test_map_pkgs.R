@@ -1,4 +1,3 @@
-
 # Work with sf ------------------------------------------------------------
 
 pacman::p_load(tidyverse, sf)
@@ -52,10 +51,12 @@ mi_map_data %>%
   aes(fill = Percent) +
   geom_sf(color = "white", size = 0.10) +
   coord_sf(crs = 4326) +
-  facet_wrap(~ CandidateLastName) +
+  facet_wrap(vars(CandidateLastName)) +
   scale_fill_viridis_c() +
   theme_minimal()
 
+
+# USE MAPVIEW FOR INTERACTIVE MAPS
 
 
 # Work with urbnmapr ------------------------------------------------------
