@@ -19,16 +19,11 @@ ggplot() +
   facet_wrap(~ VAR, ncol = 1)
 
 
-pacman::p_load(dplyr, sf, ggplot2, tmap, leaflet)
+files <- str_c(getwd(), "data/shape_mi", dir("data/shape_mi"), sep = "/")
 
 
+files %>% first() %>% sf::st_read()
 
-
-
-departements_L93 <- st_read("/data/departement", layer = "DEPARTEMENT")
-
-
-  st_transform(2154)
 
 
 

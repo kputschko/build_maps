@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>Counties</title>
+<onlink>https://gisago.mcgi.state.mi.us/arcgis/rest/services/OpenData/michigan_geographic_framework/MapServer/0</onlink>
+<onlink>http://www.michigan.gov/documents/cgi/MGF_v16_Updates_534811_7.pdf</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>County boundaries from the Michigan Geographic Framework (MGF) base map.More Metadata</abstract>
+</descript>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>michigan</themekey>
+<themekey>boundaries</themekey>
+<themekey>michigan Geographic framework</themekey>
+<themekey>mgf</themekey>
+<themekey>county</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>Information provided in the Michigan GIS Open Data Portal is accurate to the best of our knowledge and is subject to change on a regular basis, without notice. While the State of Michigan makes every effort to provide useful and accurate information, we do not warrant the information to be authoritative, complete, factual, or timely. Information is provided on an &amp;quot;as is&amp;quot; and an &amp;quot;as available&amp;quot; basis. The State of Michigan disclaims any liability, loss, injury, or damage incurred as a consequence, directly or indirectly, resulting from the use and application of any of the contents of this web site.</useconst>
+<datacred>Center for Shared Solutions, Department of Technology, Management, and Budget, State of Michigan</datacred>
+</idinfo>
+<metainfo>
+<metd>20161219</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
