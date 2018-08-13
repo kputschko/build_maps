@@ -19,6 +19,19 @@ ggplot() +
   facet_wrap(~ VAR, ncol = 1)
 
 
+pacman::p_load(dplyr, sf, ggplot2, tmap, leaflet)
+
+
+
+
+
+departements_L93 <- st_read("/data/departement", layer = "DEPARTEMENT")
+
+
+  st_transform(2154)
+
+
+
 # Work with urbnmapr ------------------------------------------------------
 
 # devtools::install_github("UrbanInstitute/urbnmapr")
